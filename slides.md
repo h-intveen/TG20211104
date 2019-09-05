@@ -230,12 +230,12 @@ Ervaringsdeskundigen kunnen meehelpen, zoek ze en betrek ze
 ## Toegankelijk Groningen
 
 Voor 2016:
+
 - Adviesraad gehandicaptenbeleid
 - PCG Website Toegankelijk Groningen
 
 In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Gehandicaptenadviesraad Groningen afgeschaft <!-- .element: class="fragment" 
-- data-fragment-index="1" -->
+- Gehandicaptenadviesraad Groningen afgeschaft <!-- .element: class="fragment" data-fragment-index="1" -->
 - Ratificatie VN-Verdrag Handicap              <!-- .element: class="fragment" data-fragment-index="1" -->
 - Werving Keurmeesters: vanaf december         <!-- .element: class="fragment" data-fragment-index="1" -->
 
