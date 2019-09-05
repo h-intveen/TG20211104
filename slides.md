@@ -40,6 +40,10 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een beperking
 --
 
 ## Voorbeelden
+Zebra versus voetgangers stoplicht met Rateltikker
+Bus?
+Werk?
+Zorg: JvS: zelf draaien in ziekenhuis
 
 --
 
@@ -79,7 +83,6 @@ En met organisaties voor en door mensen met een beperking.
 ## Dit gaat minder goed
 
 **Algemeen**
-
 
 ![VN-Verdrag-Algemeen](images/VN-Verdrag-Algemeen.png)
 
@@ -231,7 +234,8 @@ Voor 2016:
 - PCG Website Toegankelijk Groningen
 
 In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Gehandicaptenadviesraad Groningen afgeschaft <!-- .element: class="fragment" data-fragment-index="1" -->
+- Gehandicaptenadviesraad Groningen afgeschaft <!-- .element: class="fragment" 
+- data-fragment-index="1" -->
 - Ratificatie VN-Verdrag Handicap              <!-- .element: class="fragment" data-fragment-index="1" -->
 - Werving Keurmeesters: vanaf december         <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -278,7 +282,7 @@ Criteria zijn in normaal Nederlands:
 
 ## Ervaringsdeskundigen
 
-- Experts in het overleven van onmogelijke omstandigheden\: als \'even\' niks meer vanzelf gaat.
+- Experts in het overleven van onmogelijke omstandigheden\: als \'even\' niks meer vanzelf gaat.
 - Net als iedereen willen we allemaal wat anders\: een handicap is geen identiteit.
 
 --
@@ -286,13 +290,13 @@ Criteria zijn in normaal Nederlands:
 ## Samenwerken
 
 Werkgroep als **verbindende schakel en netwerk**
-Samen sterker, gebruik elkaars ervaring en kwaliteiten.
+Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
 ***Bondgenoten*** mobiliserenals je even verder nadenkt dan je eigenbelang smal is.
 
 --
 
-## Doel en koers
+## Doel
 
 Handen \& voeten geven aan VN-verdrag \'Handicap\'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
@@ -301,6 +305,13 @@ Handen \& voeten geven aan VN-verdrag \'Handicap\'
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
+
+Note:
+Ook Laaggeletterdheid en Dementie  hierbij meenemen
+
+--
+
+# Koers
 
 Benut onze creativiteit & veerkracht, op weg naar een duurzame samenleving
 
