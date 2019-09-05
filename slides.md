@@ -292,7 +292,7 @@ Criteria zijn in normaal Nederlands:
 Werkgroep als **verbindende schakel en netwerk**
 Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
-***Bondgenoten*** mobiliserenals je even verder nadenkt dan je eigenbelang smal is.
+***Bondgenoten*** mobiliseren als je even verder nadenkt dan je eigenbelang smal is.
 
 --
 
