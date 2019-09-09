@@ -68,7 +68,7 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/braille-regel-in-actie.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/Braille-regel-in-actie.jpg" data-background-opacity="1.0" -->
 
 ## Werk
 
