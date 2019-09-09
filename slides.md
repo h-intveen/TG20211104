@@ -25,7 +25,6 @@ Note:
 ![Accessability signs](images/accessibility4pics.jpg)
 
 Wat is toegankelijkheid...     <!-- .element: class="fragment" data-fragment-index="1" -->
-
 Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
@@ -35,8 +34,9 @@ Simpel kip en ei verhaal!
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Onderwijs" data-background-image="images/Inclusief-onderwijs.jpg" data-background-opacity="1.0" -->
 ## Onderwijs (2)
+
+![Accessability signs](images/Inclusief-onderwijs.jpg)
 
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
@@ -53,8 +53,9 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
 ## Sport (2)
+
+![Accessability signs](images/KidsUnited-vs-Aduard2000.jpg)
 
 Note:
 Ook organiseert Kids United wedstrijden tegen de reguliere jeugd
@@ -72,19 +73,15 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/Braille-regel-in-actie.jpg" data-background-opacity="1.0" -->
 ## Werk (2)
+
+![Braille regel in actie](images/Braille-regel-in-actie.jpg)
 
 --
 
 ## Recreatie (2)
 
 ![Accessability signs](images/Reservering-Pathe.png)
-
---
-
-## oud
-<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering-Pathe.png" background-size:50% data-background-opacity="1.0" -->
 
 Note:
 Recreatie - Film: stoel reserveren bij Pathé
