@@ -1,5 +1,6 @@
 
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
+## Toegankelijkheid
 
 Note:
 		Webserver presentation, so start server in slides directory
@@ -18,31 +19,79 @@ Note:
 <!-- .slide: data-menu-title="Introductie" -->
 ## Introductie
 
-Wat is toegankelijkheid?
+Wat is toegankelijkheid
 
-- Fysieke toegankelijkheid        <!-- .element: class="fragment" data-fragment-index="1" -->
-- Onderwijs                       <!-- .element: class="fragment" data-fragment-index="2" -->
-- Persoonlijke mobiliteit         <!-- .element: class="fragment" data-fragment-index="3" -->
-- Sport                           <!-- .element: class="fragment" data-fragment-index="4" -->
-- Toegang tot Informatie          <!-- .element: class="fragment" data-fragment-index="5" -->
-- Werk                            <!-- .element: class="fragment" data-fragment-index="6" -->
-- Recreatie (Toerisme, Cultuur)   <!-- .element: class="fragment" data-fragment-index="7" -->
-- Wonen                           <!-- .element: class="fragment" data-fragment-index="8" -->
-- Zorg                            <!-- .element: class="fragment" data-fragment-index="9" -->
+Fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
 Dat is nogal logisch als je met een rolstoel daar niets kunt
 Simpel kip en ei verhaal!
-Je wilt toch ook graag naar een school vlakbij?
-Vrijwilligers, voorleesmoeders, hebben soms ook een beperking
 
 --
 
-## Voorbeelden
-Zebra versus voetgangers stoplicht met Rateltikker
-Bus?
+## Onderwijs
+
+Note:
+Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
+Spelenderwijs incklusiviteit laten ontstaan.
+Je wilt toch ook graag naar een school vlakbij?
+Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
+
+--
+
+## Persoonlijke mobiliteit
+
+Note:
+Voorbeeld/foto : Voetgangersstoplichten met rateltikker
+
+--
+
+## Sport
+<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
+
+Note:
+Ook organiseert Kids United wedstrijden tegen de reguliere jeugd
+Een mooi voorbeeld van integratie
+
+--
+
+## Toegang tot Informatie
+
+Note:
+Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
+Toegang tot informatie gaat ook over:
+- Laaggeletterdheid
+- Digitale snelweg
+
+--
+
+## Werk
+
+--
+
+## Recreatie (Toerisme, Cultuur)
+
+--
+
+## Wonen
+
+--
+
+## Zorg
+
+Note:
+Note Note Note Note Note **Note**Note Note Note
+
+--
+
+FT Voorbeelden -
+Onderwijs?
+PM - Zebra versus voetgangers stoplicht met Rateltikker
+Sport?
 Werk?
+Recreatie - Film: stoel reserveren bij Pathé
+Wonen?
 Zorg: JvS: zelf draaien in ziekenhuis
 
 --
@@ -143,6 +192,9 @@ VNG Koplopersprogramma VN-Verdrag Handicap
 
 ![VNG-Inclusiekaart](images/VNG-Inclusiekaart.png)
 
+Note:
+- Niets over ons zonder ons
+
 --
 
 ## Inspiratiebundel
@@ -159,8 +211,8 @@ Essentie:
   - Stap voor stap
 
 Note:
-Niets over ons zonder ons
-Willen zou geen discussie meer moeten zijn
+Amendement Van der Staaij en Bergkamp ter vervanging van nr. 19:
+Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordi- gende organisaties bij het opstellen van het beleid betrokken worden.
 
 ---
 
@@ -296,7 +348,7 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
 --
 
-## Doel
+## Doel en koers
 
 Handen \& voeten geven aan VN-verdrag \'Handicap\'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
@@ -305,15 +357,12 @@ Handen \& voeten geven aan VN-verdrag \'Handicap\'
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
+Benut onze creativiteit & veerkracht, op weg naar een duurzame samenleving
 
 Note:
-Ook Laaggeletterdheid en Dementie  hierbij meenemen
-
---
-
-# Koers
-
-Benut onze creativiteit & veerkracht, op weg naar een duurzame samenleving
+Ook noemen:
+  Digitale snelweg is ook "Toegang tot Informatie" net als Laaggeletterdheid
+  Dementie ook meenemen
 
 --
 
