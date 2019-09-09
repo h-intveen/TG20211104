@@ -72,7 +72,11 @@ Toegang tot informatie gaat ook over:
 
 --
 
+<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" data-background-opacity="1.0" -->
 ## Recreatie (Toerisme, Cultuur)
+
+Note:
+Recreatie - Film: stoel reserveren bij Pathé
 
 --
 
@@ -87,12 +91,6 @@ Note Note Note Note Note **Note**Note Note Note
 
 --
 
-FT Voorbeelden -
-Onderwijs?
-PM - Zebra versus voetgangers stoplicht met Rateltikker
-Sport?
-Werk?
-Recreatie - Film: stoel reserveren bij Pathé
 Wonen?
 Zorg: JvS: zelf draaien in ziekenhuis
 
