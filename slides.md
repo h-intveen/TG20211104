@@ -34,7 +34,7 @@ Simpel kip en ei verhaal!
 --
 
 <!-- .slide: data-menu-title="Introductie-Onderwijs" data-background-image="images/Inclusief-onderwijs.jpg" data-background-opacity="1.0" -->
-## Onderwijs
+## Onderwijs - 2
 
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
@@ -44,7 +44,7 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
 --
 
-## Persoonlijke mobiliteit
+## Persoonlijke mobiliteit - 2
 
 Note:
 Voorbeeld/foto : Voetgangersstoplichten met rateltikker
@@ -52,7 +52,7 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 --
 
 <!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
-## Sport
+## Sport - 2
 
 Note:
 Ook organiseert Kids United wedstrijden tegen de reguliere jeugd
@@ -60,7 +60,7 @@ Een mooi voorbeeld van integratie
 
 --
 
-## Toegang tot Informatie
+## Toegang tot Informatie - 2
 
 Note:
 Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
@@ -71,23 +71,23 @@ Toegang tot informatie gaat ook over:
 --
 
 <!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/Braille-regel-in-actie.jpg" data-background-opacity="1.0" -->
-## Werk
+## Werk - 2
 
 --
 
 <!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" background-size:50% data-background-opacity="1.0" -->
-## Recreatie (Toerisme, Cultuur)
+## Recreatie (Toerisme, Cultuur) - 2
 
 Note:
 Recreatie - Film: stoel reserveren bij Pathé
 
 --
 
-## Wonen
+## Wonen - 2
 
 --
 
-## Zorg
+## Zorg - 2
 
 Note:
 Zorg: JvS: zelf draaien in ziekenhuis
