@@ -3,16 +3,16 @@
 ## Toegankelijkheid
 
 Note:
-		Webserver presentation, so start server in slides directory
-		Slides on iCloud:
-		    cd \~/Library/Mobile\ Documents/com\~apple\~CloudDocs/
-		Start server in slides directory
-		    python -m SimpleHTTPServer (Python2)
-		    python3 -m http.server 9000 (Python3)
-		 View by browsing to:
-		    http://localhost:9000 (Python2)
-		    http://localhost:9000 (Python3)
-		Hidden in your presentation, but you can see them if you open the speaker notes window (hit »S« on your keyboard).
+  Webserver presentation, so start server in slides directory
+  Slides on iCloud:
+    cd \~/Library/Mobile\ Documents/com\~apple\~CloudDocs/
+  Start server in slides directory
+    python -m SimpleHTTPServer (Python2)
+    python3 -m http.server 9000 (Python3)
+  View by browsing to:
+    http://localhost:9000 (Python2)
+    http://localhost:9000 (Python3)
+    Hidden in your presentation, but you can see them if you open the speaker notes window (hit »S« on your keyboard).
 
 ---
 
