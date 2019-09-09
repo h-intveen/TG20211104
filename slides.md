@@ -19,9 +19,9 @@ Note:
 <!-- .slide: data-menu-title="Introductie" -->
 ## Introductie
 
-Wat is toegankelijkheid
+Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
+Fysieke toegankelijkheid   <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
@@ -30,9 +30,8 @@ Simpel kip en ei verhaal!
 
 --
 
-## Onderwijs
-
 <!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/Inclusief onderwijs.jpg" data-background-opacity="1.0" -->
+## Onderwijs
 
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
@@ -49,8 +48,9 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 
 --
 
-## Sport
 <!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
+
+## Sport
 
 Note:
 Ook organiseert Kids United wedstrijden tegen de reguliere jeugd
@@ -68,6 +68,7 @@ Toegang tot informatie gaat ook over:
 
 --
 
+<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/raille-regel-in-actie.jpgg" data-background-opacity="1.0" -->
 ## Werk
 
 --
