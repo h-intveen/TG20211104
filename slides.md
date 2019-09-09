@@ -21,7 +21,7 @@ Note:
 
 Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Fysieke toegankelijkheid   <!-- .element: class="fragment" data-fragment-index="2" -->
+Fysieke toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
