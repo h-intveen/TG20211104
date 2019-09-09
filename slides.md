@@ -21,7 +21,7 @@ Note:
 
 Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Fysieke toegankelijkheid   <!-- .element: class="fragment" data-fragment-index="1" -->
+Fysieke toegankelijkheid   <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
@@ -30,7 +30,7 @@ Simpel kip en ei verhaal!
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/Inclusief onderwijs.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/Inclusief-onderwijs.jpg" data-background-opacity="1.0" -->
 ## Onderwijs
 
 Note:
