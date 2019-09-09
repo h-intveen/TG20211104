@@ -22,11 +22,11 @@ Note:
 <!-- .slide: data-menu-title="Introductie" -->
 ## Introductie
 
-Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Fysieke x toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
-
 ![Accessability signs](images/accessibility4pics.jpg)
+
+Wat is toegankelijkheid...     <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
