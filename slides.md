@@ -49,7 +49,6 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 --
 
 <!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
-
 ## Sport
 
 Note:
@@ -69,7 +68,6 @@ Toegang tot informatie gaat ook over:
 --
 
 <!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/Braille-regel-in-actie.jpg" data-background-opacity="1.0" -->
-
 ## Werk
 
 --
