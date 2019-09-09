@@ -68,7 +68,8 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/raille-regel-in-actie.jpgg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/braille-regel-in-actie.jpgg" data-background-opacity="1.0" -->
+
 ## Werk
 
 --
