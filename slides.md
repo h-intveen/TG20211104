@@ -32,6 +32,8 @@ Simpel kip en ei verhaal!
 
 ## Onderwijs
 
+<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/Inclusief onderwijs.jpg" data-background-opacity="1.0" -->
+
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
 Spelenderwijs incklusiviteit laten ontstaan.
