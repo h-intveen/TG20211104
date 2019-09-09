@@ -75,7 +75,7 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" background-size=50% data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" background-size:50% data-background-opacity="1.0" -->
 ## Recreatie (Toerisme, Cultuur)
 
 Note:
