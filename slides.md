@@ -12,7 +12,10 @@ Note:
   View by browsing to:
     http://localhost:9000 (Python2)
     http://localhost:9000 (Python3)
-    Hidden in your presentation, but you can see them if you open the speaker notes window (hit »S« on your keyboard).
+
+  Hidden features:
+  Speaker notes window : hit »S« on your keyboard.
+  Pause npresentation :  hit »B« or ».«
 
 ---
 
@@ -72,7 +75,7 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/Reservering Pathe.png" background-size=50% data-background-opacity="1.0" -->
 ## Recreatie (Toerisme, Cultuur)
 
 Note:
@@ -87,11 +90,6 @@ Recreatie - Film: stoel reserveren bij Pathé
 ## Zorg
 
 Note:
-Note Note Note Note Note **Note**Note Note Note
-
---
-
-Wonen?
 Zorg: JvS: zelf draaien in ziekenhuis
 
 --
