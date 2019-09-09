@@ -24,7 +24,7 @@ Note:
 
 Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
 
-Fysieke toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
+Fysieke x toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ![Accessability signs](images/accessibility4pics.jpg)
 
