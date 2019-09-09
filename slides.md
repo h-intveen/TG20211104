@@ -26,8 +26,7 @@ Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index
 
 Fysieke toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
 
-![Accessability signs](images/accessibility4pics.jpg)     <!-- .element: class="fragment" data-fragment-index="3" -->
-
+![Accessability signs](images/accessibility4pics.jpg)
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
