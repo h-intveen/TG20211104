@@ -30,7 +30,7 @@ Simpel kip en ei verhaal!
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/Inclusief-onderwijs.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Onderwijs" data-background-image="images/Inclusief-onderwijs.jpg" data-background-opacity="1.0" -->
 ## Onderwijs
 
 Note:
@@ -48,7 +48,7 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Mobiliteit" data-background-image="images/KidsUnited-vs-Aduard2000.jpg" data-background-opacity="1.0" -->
 
 ## Sport
 
@@ -68,7 +68,7 @@ Toegang tot informatie gaat ook over:
 
 --
 
-<!-- .slide: data-menu-title="Introductie-Sport" data-background-image="images/braille-regel-in-actie.jpgg" data-background-opacity="1.0" -->
+<!-- .slide: data-menu-title="Introductie-Toegang-tot-Informatie" data-background-image="images/braille-regel-in-actie.jpgg" data-background-opacity="1.0" -->
 
 ## Werk
 
