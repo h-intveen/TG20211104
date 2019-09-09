@@ -5,12 +5,12 @@
 Note:
   Webserver presentation, so start server in slides directory
   Slides on iCloud:
-    cd \~/Library/Mobile\ Documents/com\~apple\~CloudDocs/
+    cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/
   Start server in slides directory
     python -m SimpleHTTPServer (Python2)
     python3 -m http.server 9000 (Python3)
   View by browsing to:
-    http://localhost:9000 (Python2)
+    http://localhost:8000 (Python2)
     http://localhost:9000 (Python3)
 
   Hidden features:
@@ -25,6 +25,9 @@ Note:
 Wat is toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Fysieke toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="2" -->
+
+![Accessability signs](images/accessibility4pics.jpg)     <!-- .element: class="fragment" data-fragment-index="3" -->
+
 
 Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
