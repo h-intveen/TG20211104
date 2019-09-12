@@ -101,6 +101,8 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
 ## Persoonlijke mobiliteit (2)
 
+![Accessability signs](images/VoetgangerRateltikker.jpg)
+
 Note:
 Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 
@@ -117,6 +119,8 @@ Een mooi voorbeeld van integratie
 --
 
 ## Toegang tot Informatie (2)
+
+![Accessability signs](images/DRIS.jpg)
 
 Note:
 Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
