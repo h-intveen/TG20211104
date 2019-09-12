@@ -159,7 +159,7 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 ## Zorg (2)
 
-![Accessability signs](images/accessibility4picsOnWhite.tiff)
+!![Accessability signs](images/accessibility4pics.jpg)
 
 Note:
 Zorg: JvS: zelf draaien in ziekenhuis
