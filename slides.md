@@ -37,7 +37,7 @@ Simpel kip en ei verhaal!
 
 ## Bewustwording burger (1)
 
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-1.jpg)
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-1a.jpg)
 
 Note:
 Vooral in de stad Groningen is fietsoverlast een groot probleem.
@@ -48,7 +48,7 @@ De gemeente start met een campagne voor bewustwording
 
 ## Bewustwording burger (2)
 
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-2.jpg)
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-2a.jpg)
 
 --
 
