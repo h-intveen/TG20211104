@@ -35,16 +35,20 @@ Simpel kip en ei verhaal!
 
 --
 
-## Bewustwording nodig
+## Bewustwording burger
 
 ![Fietsoverlast op de stoep 1](images/Fietsoverlast-1.jpg)
-![Parkeerbord versperd stoep](images/ParkeerbordVersperring.JPG)
-
 
 Note:
 Vooral in de stad Groningen is fietsoverlast een groot probleem.
 Daar zijn we als werkgroep ook bij betrokken
 De gemeente start met een campagne voor bewustwording
+
+--
+
+## Bewustwording uitvoering
+
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
 
 --
 
