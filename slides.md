@@ -89,7 +89,7 @@ Simpel kip en ei verhaal!
 - beperkte mobiliteit
 - beperkt zicht
 - beperkt gehoor
-- psygisch beperkt
+- psychisch beperkt
 
 --
 
