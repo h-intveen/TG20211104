@@ -20,7 +20,7 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Introductie" -->
-## Presentatie:
+## Agenda:
 
 1. Wat is toegankelijkheid
 2. VN-Verdrag Handicap
@@ -37,6 +37,7 @@ Note:
 ## Wat is Toegankelijkheid
 
  Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
+
  Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
@@ -81,8 +82,13 @@ Simpel kip en ei verhaal!
 
 --
 
+## Handicap breed
 
 ![Accessability signs](images/accessibility4pics.jpg)
+- beperkte mobiliteit
+- beperkt zicht
+- beperkt gehoor
+- psygish beperkt
 
 
 --
@@ -101,7 +107,7 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
 ## Persoonlijke mobiliteit (2)
 
-![Accessability signs](images/VoetgangerRateltikker.jpg)
+![Accessability signs](images/VoetgangerRateltikkerA.jpg)
 
 Note:
 Voorbeeld/foto : Voetgangersstoplichten met rateltikker
@@ -120,7 +126,7 @@ Een mooi voorbeeld van integratie
 
 ## Toegang tot Informatie (2)
 
-![Accessability signs](images/DRIS.jpg)
+![Accessability signs](images/DRIS-A.jpg)
 
 Note:
 Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
