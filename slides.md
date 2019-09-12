@@ -38,7 +38,7 @@ Simpel kip en ei verhaal!
 ## Bewustwording nodig
 
 ![Fietsoverlast op de stoep 1](images/Fietsoverlast-1.jpg)
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-2.jpg)
+![Parkeerbord versperd stoep](images/ParkeerbordVersperring.JPG)
 
 
 Note:
