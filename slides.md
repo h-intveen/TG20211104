@@ -153,7 +153,7 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 ## Wonen (2)
 
-![Accessability signs](images/GlascontainersB.JPG)
+![Accessability signs](images/GlascontainersB.jpg)
 
 --
 
