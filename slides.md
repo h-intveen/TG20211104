@@ -23,14 +23,14 @@ Note:
 ## Introductie
 
 Opbouw presentatie:
-1) Wat is toegankelijkheid - voorbeelden
-2) VN-Verdarg Handicap
-3) VNG aanpak
-4) Toegankelijkheid - Handvatten?
-   Pauze
-5) Toegankelijk Groningen
-6) Toegankelijkheid: aan het werk!
-7) Afronding
+1. Wat is toegankelijkheid - voorbeelden
+2. VN-Verdrag Handicap
+3. VNG aanpak
+4. Toegankelijkheid - Handvatten?
+5. Pauze
+6. Toegankelijk Groningen
+7. Toegankelijkheid: aan het werk!
+8. Afronding
 
 --
 
