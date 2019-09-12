@@ -33,11 +33,11 @@ Note:
 
 --
 
-<!-- .slide: data-menu-title="Introductie" -->
-## Introductie
+<!-- .slide: data-menu-title="Wat is Toegankelijkheid" -->
+## Wat is Toegankelijkheid
 
- Alleen fysieke toegankelijkheid?
- Is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="1" -->
+ Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
+ Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
 
@@ -51,7 +51,7 @@ Achteringang
 
 ## Bewustwording burger (1)
 
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-1a.jpg)
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-1b.jpg)
 
 Note:
 Vooral in de stad Groningen is fietsoverlast een groot probleem.
@@ -62,7 +62,7 @@ De gemeente start met een campagne voor bewustwording
 
 ## Bewustwording burger (2)
 
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-2a.jpg)
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-2b.jpg)
 
 Note:
 Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
@@ -143,7 +143,7 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 ## Wonen (2)
 
-![Accessability signs](images/GlascontainersA.JPG)
+![Accessability signs](images/GlascontainersB.JPG)
 
 --
 
