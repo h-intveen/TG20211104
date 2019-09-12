@@ -20,10 +20,9 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Introductie" -->
-## Introductie
+## Presentatie:
 
-Opbouw presentatie:
-1. Wat is toegankelijkheid - voorbeelden
+1. Wat is toegankelijkheid
 2. VN-Verdrag Handicap
 3. VNG aanpak
 4. Toegankelijkheid - Handvatten?
@@ -31,6 +30,11 @@ Opbouw presentatie:
 6. Toegankelijk Groningen
 7. Toegankelijkheid: aan het werk!
 8. Afronding
+
+--
+
+<!-- .slide: data-menu-title="Introductie" -->
+## Introductie
 
 --
 
@@ -128,6 +132,8 @@ Recreatie - Film: stoel reserveren bij Pathé
 --
 
 ## Wonen (2)
+
+![Accessability signs](images/Glascontainers.JPG)
 
 --
 
