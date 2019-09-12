@@ -22,16 +22,15 @@ Note:
 <!-- .slide: data-menu-title="Introductie" -->
 ## Introductie
 
-Wat is toegankelijkheid...     <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
-
-![Accessability signs](images/accessibility4pics.jpg)
-
-Note:
-Gebruikelijk argument: hier komt nooit iemand met een rolstoel
-Dat is nogal logisch als je met een rolstoel daar niets kunt
-Simpel kip en ei verhaal!
+Opbouw presentatie:
+1) Wat is toegankelijkheid - voorbeelden
+2) VN-Verdarg Handicap
+3) VNG aanpak
+4) Toegankelijkheid - Handvatten?
+   Pauze
+5) Toegankelijk Groningen
+6) Toegankelijkheid: aan het werk!
+7) Afronding
 
 --
 
@@ -50,11 +49,27 @@ De gemeente start met een campagne voor bewustwording
 
 ![Fietsoverlast op de stoep 1](images/Fietsoverlast-2a.jpg)
 
+Note:
+Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
+
 --
 
 ## Bewustwording overheid
 
 ![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
+
+
+Note:
+Gebruikelijk argument: hier komt nooit iemand met een rolstoel
+Dat is nogal logisch als je met een rolstoel daar niets kunt
+Simpel kip en ei verhaal!
+
+--
+
+Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
+
+![Accessability signs](images/accessibility4pics.jpg)
+
 
 --
 
@@ -146,6 +161,7 @@ College voor de rechten van de mens: jaarlijks rapport
 Bron zijn mensen en organisaties
 
 Note:
+Officieel: "VN-Verdrag inzake de rechten van personen met een handicap"
 Dit rapport gaat over de eerste twee jaar van het VN-verdrag in Nederland.
 Het College heeft hierover contact gehad met mensen met een beperking.
 En met organisaties voor en door mensen met een beperking.
@@ -433,9 +449,9 @@ Documenten:- Brochures
 ---
 
 <!-- .slide: data-menu-title ="SWOT Toegankelijkheid" -->
-## SWOT Toegankelijkheid
+## Toegankelijkheid: aan het werk!
 
-- 4 slides
+- 4 slides SWOT analyse
   - Sterke punten Veendam
   - Zwakke punten Veendam
   - Kansen Veendam
