@@ -36,6 +36,17 @@ Note:
 <!-- .slide: data-menu-title="Introductie" -->
 ## Introductie
 
+ Alleen fysieke toegankelijkheid?
+ Is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="1" -->
+
+--
+
+## Gebouwen
+
+Note:
+Feithhuis
+Achteringang
+
 --
 
 ## Bewustwording burger (1)
@@ -70,7 +81,6 @@ Simpel kip en ei verhaal!
 
 --
 
-Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ![Accessability signs](images/accessibility4pics.jpg)
 
@@ -133,7 +143,7 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 ## Wonen (2)
 
-![Accessability signs](images/Glascontainers.JPG)
+![Accessability signs](images/GlascontainersA.JPG)
 
 --
 
