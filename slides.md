@@ -23,6 +23,7 @@ Note:
 ## Introductie
 
 Wat is toegankelijkheid...     <!-- .element: class="fragment" data-fragment-index="1" -->
+
 Alleen fysieke toegankelijkheid?     <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ![Accessability signs](images/accessibility4pics.jpg)
@@ -31,6 +32,19 @@ Note:
 Gebruikelijk argument: hier komt nooit iemand met een rolstoel
 Dat is nogal logisch als je met een rolstoel daar niets kunt
 Simpel kip en ei verhaal!
+
+--
+
+## Bewustwording nodig
+
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-1.jpg)
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-2.jpg)
+
+
+Note:
+Vooral in de stad Groningen is fietsoverlast een groot probleem.
+Daar zijn we als werkgroep ook bij betrokken
+De gemeente start met een campagne voor bewustwording
 
 --
 
