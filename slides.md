@@ -35,7 +35,7 @@ Simpel kip en ei verhaal!
 
 --
 
-## Bewustwording burger
+## Bewustwording burger (1)
 
 ![Fietsoverlast op de stoep 1](images/Fietsoverlast-1.jpg)
 
@@ -46,7 +46,13 @@ De gemeente start met een campagne voor bewustwording
 
 --
 
-## Bewustwording uitvoering
+## Bewustwording burger (2)
+
+![Fietsoverlast op de stoep 1](images/Fietsoverlast-2.jpg)
+
+--
+
+## Bewustwording overheid
 
 ![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
 
@@ -373,19 +379,19 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
 ## Doel en koers
 
-Handen \& voeten geven aan VN-verdrag \'Handicap\'
+Handen \& voeten geven aan VN-verdrag 'Handicap'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
 - Opleidingen en onderwijs
 - Openbare ruimte en de toegankelijkheid van voorzieningen
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
-Benut onze creativiteit & veerkracht, op weg naar een duurzame samenleving
+Benut onze creativiteit \& veerkracht, op weg naar een duurzame samenleving
 
 Note:
 Ook noemen:
   Digitale snelweg is ook "Toegang tot Informatie" net als Laaggeletterdheid
-  Dementie ook meenemen
+  Dementie ook als "verstyandelijke beperking"
 
 --
 
@@ -417,9 +423,9 @@ WIJ- stichting is de uivoerder van WMO in Groningen
 Note:
 Verkiezingen: incl. Dovengemeenschap!
 Grunn Gras
-Parkeerbeleid
+MiVa Parkeerbeleid
+Fietsbeleid
 Documenten:- Brochures
-
 - Handreiking Toegankelijkheid 2017
 - Integrale toegankelijkheid 2019
 - Waaier Toegankelijkheid HoreCa
