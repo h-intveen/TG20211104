@@ -85,6 +85,7 @@ Simpel kip en ei verhaal!
 ## Handicap breed
 
 ![Accessability signs](images/accessibility4pics.jpg)
+
 - beperkte mobiliteit
 - beperkt zicht
 - beperkt gehoor
@@ -302,7 +303,7 @@ Eenvoudige vraag:
 - Handboek voor Toegankelijkheid
 - Vanuit Toegankelijk Groningen:
   - Handreiking Toegankelijkheid 2017
-  - Integrale Toegankelijkheid v1.1
+  - Integrale Toegankelijkheid v1.2
 
 **Maar...**                      <!-- .element: class="fragment" data-fragment-index="1" -->
 
