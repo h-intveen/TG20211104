@@ -26,7 +26,7 @@ Note:
 2. VN-Verdrag Handicap
 3. VNG aanpak
 4. Toegankelijkheid - Handvatten?
-5. Pauze
+  - Pauze
 6. Toegankelijk Groningen
 7. Toegankelijkheid: aan het werk!
 8. Afronding
