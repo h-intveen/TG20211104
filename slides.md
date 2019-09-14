@@ -4,8 +4,7 @@
 
 Note:
   Webserver presentation, so start server in slides directory
-  Slides on iCloud:
-    cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/
+  Slides reside in repository in Projects folder:
   Start server in slides directory
     python -m SimpleHTTPServer (Python2)
     python3 -m http.server 9000 (Python3)
@@ -39,6 +38,8 @@ Note:
  Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
  Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
+
+ Maar er is zoveel meer..           <!-- .element: class="fragment" data-fragment-index="2" -->
 
 --
 
