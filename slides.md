@@ -34,7 +34,7 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Wat is Toegankelijkheid" -->
--## Wat is Toegankelijkheid
+## Wat is Toegankelijkheid
 
  Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
