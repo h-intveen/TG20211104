@@ -19,7 +19,7 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Introductie" -->
+<!-- .slide: data-menu-title="Agenda" -->
 ## Agenda:
 
 1. Wat is toegankelijkheid
@@ -31,10 +31,10 @@ Note:
 7. Toegankelijkheid: aan het werk!
 8. Afronding
 
---
+---
 
 <!-- .slide: data-menu-title="Wat is Toegankelijkheid" -->
-## Wat is Toegankelijkheid
+-## Wat is Toegankelijkheid
 
  Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
