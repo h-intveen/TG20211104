@@ -35,23 +35,28 @@ Note:
 <!-- .slide: data-menu-title="Wat is Toegankelijkheid" -->
 ## Wat is Toegankelijkheid
 
- Alleen fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
+ Is dit fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
  Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
 
- Maar er is zoveel meer..           <!-- .element: class="fragment" data-fragment-index="2" -->
-
 --
 
-## Gebouwen
+## Gebouwen (1)
+
+![Parkeerbord verspert stoep](images/20120411-Feithhuis-Groningen.jpg)
 
 Note:
-Feithhuis
-Achteringang
+Gebruikelijk argument: hier komt nooit iemand met een rolstoel
+Dat is nogal logisch als je met een rolstoel daar niets kunt
+Simpel kip en ei verhaal!
+
+## Gebouwen (2)
+
+![Achteriungang Feithhuis](images/Feithhuis-achteringang.jpg)
 
 --
 
-## Bewustwording burger (1)
+## Openbare ruimte
 
 ![Fietsoverlast op de stoep 1](images/Fietsoverlast-1b.jpg)
 
@@ -62,24 +67,13 @@ De gemeente start met een campagne voor bewustwording
 
 --
 
-## Bewustwording burger (2)
+# Wat is Toegankelijkheid
 
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-2b.jpg)
+ Is dit fysieke toegankelijkheid? 
 
-Note:
-Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
+ Dat is inderdaad belangrijk! 
 
---
-
-## Bewustwording overheid
-
-![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
-
-
-Note:
-Gebruikelijk argument: hier komt nooit iemand met een rolstoel
-Dat is nogal logisch als je met een rolstoel daar niets kunt
-Simpel kip en ei verhaal!
+ Maar er is zoveel meer..           <!-- .element: class="fragment" data-fragment-index="1" -->
 
 --
 
@@ -92,9 +86,12 @@ Simpel kip en ei verhaal!
 - beperkt gehoor
 - psychisch beperkt
 
+Note:
+Waarbij psychisch inclusief Dementie  
+
 --
 
-## Onderwijs (2)
+## Onderwijs
 
 ![Accessability signs](images/Inclusief-onderwijs.jpg)
 
@@ -106,7 +103,7 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
 --
 
-## Persoonlijke mobiliteit (2)
+## Persoonlijke mobiliteit
 
 ![Accessability signs](images/VoetgangerRateltikkerA.jpg)
 
@@ -115,7 +112,7 @@ Voorbeeld/foto : Voetgangersstoplichten met rateltikker
 
 --
 
-## Sport (2)
+## Sport
 
 ![Accessability signs](images/KidsUnited-vs-Aduard2000.jpg)
 
@@ -125,12 +122,13 @@ Een mooi voorbeeld van integratie
 
 --
 
-## Toegang tot Informatie (2)
+## Toegang tot Informatie
 
 ![Accessability signs](images/DRIS-A.jpg)
 
 Note:
 Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
+Voorbeeld/communicatie richting dove mensen in crisissituaties: Ondertiteling/NG-tolk
 Toegang tot informatie gaat ook over:
 - Laaggeletterdheid
 - Digitale snelweg
@@ -152,18 +150,48 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 --
 
+## Wonen (1)
+
+![Accessability signs](images/otolift-traplift.jpg)
+
+Note:
+Woningaanpassingen, zoals bijvoorbeeld een traplift
+
+--
+
 ## Wonen (2)
 
 ![Accessability signs](images/GlascontainersB.jpg)
+
+Note:
+Maar ook zoals een 'gewone' bewoner je vuilnis opruimen
 
 --
 
 ## Zorg (2)
 
-!![Accessability signs](images/accessibility4pics.jpg)
+!![Accessability signs](images/GeenIdee.jpg)
 
 Note:
 Zorg: JvS: zelf draaien in ziekenhuis
+
+--
+
+## Bewustwording burgers
+
+![Fietsoverlast 2](images/PFietsoverlast-2b.jpg)
+
+Note:
+Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
+
+--
+
+## Bewustwording overheid
+
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
+
+Note:
+Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
 
 --
 
