@@ -1,17 +1,23 @@
 
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
-## Toegankelijkheid
+## Presentatie Toegankelijkheid Veendam
 
 Note:
   Webserver presentation, so start server in slides directory
   Slides reside in repository in Projects folder:
-  Start server in slides directory
-    python -m SimpleHTTPServer (Python2)
-    python3 -m http.server 9000 (Python3)
-  View by browsing to:
-    http://localhost:8000 (Python2)
-    http://localhost:9000 (Python3)
-
+  MacOS
+    Start server in terminal window (i.e. in slides directory)
+      python -m SimpleHTTPServer (Python2)
+      python3 -m http.server 9000 (Python3)
+    View by browsing to:
+      http://localhost:8000 (Python2)
+      http://localhost:9000 (Python3)
+  Windows:
+    Install extension: HTTP Server / HTML Preview
+    Start server in terminal window
+      Press <Fn> & F1
+      Type: Simple HTTP server: Create HTTP Server <enter>
+      Choose where it should run
   Hidden features:
   Speaker notes window : hit »S« on your keyboard.
   Pause npresentation :  hit »B« or ».«
@@ -50,6 +56,8 @@ Gebruikelijk argument: hier komt nooit iemand met een rolstoel
 Dat is nogal logisch als je met een rolstoel daar niets kunt
 Simpel kip en ei verhaal!
 
+--
+
 ## Gebouwen (2)
 
 ![Achteriungang Feithhuis](images/Feithhuis-achteringang.jpg)
@@ -67,11 +75,11 @@ De gemeente start met een campagne voor bewustwording
 
 --
 
-# Wat is Toegankelijkheid
+## Wat is Toegankelijkheid
 
- Is dit fysieke toegankelijkheid? 
+ Is dit fysieke toegankelijkheid?
 
- Dat is inderdaad belangrijk! 
+ Dat is inderdaad belangrijk!
 
  Maar er is zoveel meer..           <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -93,7 +101,7 @@ Waarbij psychisch inclusief Dementie
 
 ## Onderwijs
 
-![Accessability signs](images/Inclusief-onderwijs.jpg)
+![Leerling in klas met rolstoel](images/Inclusief-onderwijs.jpg)
 
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
@@ -103,18 +111,24 @@ Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
 --
 
-## Persoonlijke mobiliteit
+## Persoonlijke mobiliteit (1)
 
-![Accessability signs](images/VoetgangerRateltikkerA.jpg)
+![Electrische rolstoel rijdt bus in](images/Electrische-rolstoel-bus.jpg)
+
+--
+
+## Persoonlijke mobiliteit (2)
+
+![Zebra met verkeerslichten enb rateltikker](images/VoetgangerRateltikkerA.jpg)
 
 Note:
-Voorbeeld/foto : Voetgangersstoplichten met rateltikker
+Voorbeeld/foto : Voetgangersstoplichten met rateltikker - veiliheid voor blinden
 
 --
 
 ## Sport
 
-![Accessability signs](images/KidsUnited-vs-Aduard2000.jpg)
+![Elftallen Kids United en FC Groiningen](images/KidsUnited-vs-Aduard2000.jpg)
 
 Note:
 Ook organiseert Kids United wedstrijden tegen de reguliere jeugd
@@ -124,11 +138,12 @@ Een mooi voorbeeld van integratie
 
 ## Toegang tot Informatie
 
-![Accessability signs](images/DRIS-A.jpg)
+![Dynamisch route ˜Informatie systeem](images/DRIS-A.jpg)
 
 Note:
-Voorbeeld/foto Bus: bushalte met Digitaal Route informatie systeem en knop
-Voorbeeld/communicatie richting dove mensen in crisissituaties: Ondertiteling/NG-tolk
+Foto Bus: bushalte met Digitaal Route informatie systeem en knop
+Ander voorbeeld: communicatie aan dove mensen in crisissituaties: Ondertiteling/NG-tolk
+
 Toegang tot informatie gaat ook over:
 - Laaggeletterdheid
 - Digitale snelweg
@@ -143,7 +158,7 @@ Toegang tot informatie gaat ook over:
 
 ## Recreatie (2)
 
-![Accessability signs](images/Reservering-Pathe.png)
+![Website Pathè](images/Reservering-Pathe.png)
 
 Note:
 Recreatie - Film: stoel reserveren bij Pathé
@@ -152,7 +167,7 @@ Recreatie - Film: stoel reserveren bij Pathé
 
 ## Wonen (1)
 
-![Accessability signs](images/otolift-traplift.jpg)
+![Traplift in woning](images/otolift-traplift.jpg)
 
 Note:
 Woningaanpassingen, zoals bijvoorbeeld een traplift
@@ -161,7 +176,7 @@ Woningaanpassingen, zoals bijvoorbeeld een traplift
 
 ## Wonen (2)
 
-![Accessability signs](images/GlascontainersB.jpg)
+![Toegang tot glas en afvalcontainers](images/GlascontainersB.jpg)
 
 Note:
 Maar ook zoals een 'gewone' bewoner je vuilnis opruimen
@@ -177,20 +192,22 @@ Zorg: JvS: zelf draaien in ziekenhuis
 
 --
 
-## Bewustwording burgers
+## Bewustwording (1)
 
-![Fietsoverlast 2](images/PFietsoverlast-2b.jpg)
+![Fietsoverlast 2](images/PFietsoverlast-2a.jpg)
 
 Note:
+Bewustwording burgers
 Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
 
 --
 
-## Bewustwording overheid
+## Bewustwording
 
 ![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
 
 Note:
+Bewustwording overheid & uitvoerders
 Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
 
 --
@@ -312,8 +329,15 @@ Essentie:
 
 Note:
 Amendement Van der Staaij en Bergkamp ter vervanging van nr. 19:
-Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordi- gende organisaties bij het opstellen van het beleid betrokken worden.
-
+Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordygende organisaties bij het opstellen van het beleid betrokken worden.
+VN-verdrag: niet vrijblivend, gemeenten moeten plan maken hoe ze hier uitvoering aan geven!
+- Willen
+  Gemeente en ervaringsdeskundigen
+  Vergroten: Ervaringsparcoursen en -verhalen: resultaat motiveert, waardering ook.
+  Vboordelen: kostenbesparend, draagvlak door vooraf te checken met (beperkte) inwoners
+- Kunnen
+  Besef dat je dat moet organiseren; gebruik bestaande bronnen: adviesraden (check vertegenwoordiging beperkten)
+  Wees uitnodigend, vraag individuen; Sta open boor ongevraagd advies
 ---
 
 <!-- .slide: data-menu-title="Toegankelijkheid Handvatten" -->
