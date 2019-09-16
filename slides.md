@@ -20,11 +20,12 @@ Note:
       Choose where it should run
   Hidden features:
   Speaker notes window : hit »S« on your keyboard.
-  Pause npresentation :  hit »B« or ».«
+  Pause presentation :  hit »B« or ».«
+  Show menu: hit »m«
 
 ---
 
-<!-- .slide: data-menu-title="Agenda" -->
+<!-- .slide: data-menu-title="Agenda" data-background-image="images/stopwatch.jpg" data-background-opacity="0.2" -->
 ## Agenda:
 
 1. Wat is toegankelijkheid
@@ -45,9 +46,12 @@ Note:
 
  Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
 
+Note:
+- Planning Introductie: 15 minuten, dus tot 14:15
+
 --
 
-## Gebouwen (1)
+## Gebouwen
 
 ![Parkeerbord verspert stoep](images/20120411-Feithhuis-Groningen.jpg)
 
@@ -58,20 +62,24 @@ Simpel kip en ei verhaal!
 
 --
 
-## Gebouwen (2)
+## Openbare ruimte (1)
 
-![Achteriungang Feithhuis](images/Feithhuis-achteringang.jpg)
-
---
-
-## Openbare ruimte
-
-![Fietsoverlast op de stoep 1](images/Fietsoverlast-1b.jpg)
+![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)
 
 Note:
 Vooral in de stad Groningen is fietsoverlast een groot probleem.
 Daar zijn we als werkgroep ook bij betrokken
 De gemeente start met een campagne voor bewustwording
+
+--
+
+## Openbare ruimte (2)
+
+!![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
+
+Note:
+Bewustwording overheid & uitvoerders
+Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
 
 --
 
@@ -81,7 +89,7 @@ De gemeente start met een campagne voor bewustwording
 
  Dat is inderdaad belangrijk!
 
- Maar er is zoveel meer..           <!-- .element: class="fragment" data-fragment-index="1" -->
+ Maar er is zoveel meer...
 
 --
 
@@ -93,9 +101,11 @@ De gemeente start met een campagne voor bewustwording
 - beperkt zicht
 - beperkt gehoor
 - psychisch beperkt
+- Verstandelijk beperkt
 
 Note:
-Waarbij psychisch inclusief Dementie  
+Psychisch: ook ADHD, Autisme
+Verstandelijk beperkt: ook Dementie  
 
 --
 
@@ -105,7 +115,7 @@ Waarbij psychisch inclusief Dementie
 
 Note:
 Inclusief onderwijs: Kinderen al direct leren dat niet iedereen gelijk is.
-Spelenderwijs incklusiviteit laten ontstaan.
+Spelenderwijs inclusiviteit laten ontstaan.
 Je wilt toch ook graag naar een school vlakbij?
 Vrijwilligers, voorleesmoeders, hebben soms ook een (tijdelijke) beperking
 
@@ -138,7 +148,7 @@ Een mooi voorbeeld van integratie
 
 ## Toegang tot Informatie
 
-![Dynamisch route ˜Informatie systeem](images/DRIS-A.jpg)
+![Dynamisch route Informatie systeem](images/DRIS-A.jpg)
 
 Note:
 Foto Bus: bushalte met Digitaal Route informatie systeem en knop
@@ -150,13 +160,13 @@ Toegang tot informatie gaat ook over:
 
 --
 
-## Werk (2)
+## Werk
 
 ![Braille regel in actie](images/Braille-regel-in-actie.jpg)
 
 --
 
-## Recreatie (2)
+## Recreatie
 
 ![Website Pathè](images/Reservering-Pathe.png)
 
@@ -176,39 +186,19 @@ Woningaanpassingen, zoals bijvoorbeeld een traplift
 
 ## Wonen (2)
 
-![Toegang tot glas en afvalcontainers](images/GlascontainersB.jpg)
+![Toegang tot glas en afvalcontainers](images/Glascontainers.png)
 
 Note:
 Maar ook zoals een 'gewone' bewoner je vuilnis opruimen
 
 --
 
-## Zorg (2)
+## Zorg
 
 !![Accessability signs](images/GeenIdee.jpg)
 
 Note:
 Zorg: JvS: zelf draaien in ziekenhuis
-
---
-
-## Bewustwording (1)
-
-![Fietsoverlast 2](images/PFietsoverlast-2a.jpg)
-
-Note:
-Bewustwording burgers
-Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
-
---
-
-## Bewustwording
-
-![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
-
-Note:
-Bewustwording overheid & uitvoerders
-Niet alleen issue voor rolstoelen, ook blinden, rollators, kinderwagens
 
 --
 
@@ -237,6 +227,7 @@ Officieel: "VN-Verdrag inzake de rechten van personen met een handicap"
 Dit rapport gaat over de eerste twee jaar van het VN-verdrag in Nederland.
 Het College heeft hierover contact gehad met mensen met een beperking.
 En met organisaties voor en door mensen met een beperking.
+- Planning VN-Verdrag Handicap: 15 minuten, dus tot 14:30
 
 --
 
@@ -297,6 +288,9 @@ VNG Koplopersprogramma VN-Verdrag Handicap
 - goede voorbeelden zichtbaar maken
 - lopende initiatieven groter maken
 
+Note:
+Planning VNG aanpak: 10 minuten, dus tot 14:40
+
 --
 
 ## Om wie gaat het
@@ -314,10 +308,16 @@ Note:
 
 --
 
+<!-- .slide: data-background-image="images/businessman.png" data-background-opacity="1.0" -->
 ## Inspiratiebundel
 
-Essentie:
-**Organiseer ervaringsdeskundigheid**
+Note:
+ Inspiratiebundel door Movisie & VNG
+ Goede voorbeelden op www.vng.nl/iedereen-doet-mee
+
+--
+
+## Organiseer ervaringsdeskundigheid
 
 - Willen
   - Locale inclusie agenda
@@ -338,14 +338,18 @@ VN-verdrag: niet vrijblivend, gemeenten moeten plan maken hoe ze hier uitvoering
 - Kunnen
   Besef dat je dat moet organiseren; gebruik bestaande bronnen: adviesraden (check vertegenwoordiging beperkten)
   Wees uitnodigend, vraag individuen; Sta open boor ongevraagd advies
+
 ---
 
-<!-- .slide: data-menu-title="Toegankelijkheid Handvatten" -->
+<!-- .slide: data-menu-title="Toegankelijkheid Handvatten" data-background-image="images/raising_questions.jpg" data-background-opacity="0.2" -->
 ## Toegankelijkheid - Handvatten?
 
 Eenvoudige vraag:
 
 **Wat zijn de eisen, waaraan moet het voldoen?**
+
+Note:
+- Planning handvatten: 10 minuten, dus tot 14:50
 
 --
 
@@ -380,15 +384,19 @@ Eenvoudige vraag:
 
 --
 
+<!-- .slide: data-background-image="images/exploding_head.png" data-background-opacity="0.2" -->
 ## Hoe verder...
 
 - Ontoegankelijkheid is vaak geen opzet       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Laat beslissers zelf ervaren                <!-- .element: class="fragment" data-fragment-index="1" -->
-- Het begint met er over praten: (h)erkennen  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Vraag mensen die dat ondervinden            <!-- .element: class="fragment" data-fragment-index="2" -->
-- Ervaringsdeskundigen kunnen helpen          <!-- .element: class="fragment" data-fragment-index="3" -->
 
-**Zoek ervaringsdeskundigen en betrek ze!** <!-- .element: class="fragment" data-fragment-index="4" -->
+- Laat beslissers zelf ervaren                <!-- .element: class="fragment" data-fragment-index="2" -->
+
+- Het begint met er over praten: (h)erkennen  <!-- .element: class="fragment" data-fragment-index="3" -->
+
+- Vraag mensen die dat ondervinden            <!-- .element: class="fragment" data-fragment-index="4" -->
+- Ervaringsdeskundigen kunnen helpen          <!-- .element: class="fragment" data-fragment-index="4" -->
+
+**Zoek ervaringsdeskundigen en betrek ze!** <!-- .element: class="fragment" data-fragment-index="5" -->
 
 Note:
 Vaak geen opzet, onwil, of doel maar onwetendheid, of angst/handelingsverlegenheid
@@ -397,8 +405,10 @@ Ervaringsdeskundigen kunnen meehelpen, zoek ze en betrek ze
 
 ---
 
-<!-- .slide: data-menu-title="Pauze" -->
-## Pauze
+<!-- .slide: data-menu-title ="Pauze" data-background-image="images/FfPauze.jpg" data-background-opacity="1.0" -->
+
+Note:
+- Planning pauze: 20 minuten, dus van 14:50 tot 15:10
 
 ---
 
@@ -425,14 +435,16 @@ Ontstaan vanuit PCG Keurmeesters
 Nu adviseurs Toegankelijkheid
 Contacten Klaas van der Berg in 2016
 Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
+- Planning Toegankelijk Groningen: 20 minuten, dus tot 15:30
 
 --
 
+<!-- .slide: data-background-image="images/puzzle.jpg" data-background-opacity="0.3" -->
 ## Werkgroep TG
 
-Netwerk van en voor \'mensen met een handicap\' in de Gemeente Groningen
+Netwerk van en voor 'mensen met een handicap' in de Gemeente Groningen
 - Handicap-breed en sociaal!
-Onze \'bloedgroepen\' zijn:
+Onze 'bloedgroepen' zijn:
 - burgers met een fysieke handicap en meestal ook mobiliteits-gedoe.
 - blinden en slechtzienden.
 - de gemeenschap van doven en slechthorenden.
@@ -440,13 +452,13 @@ Onze \'bloedgroepen\' zijn:
 - burgers met een psychische handicap.
 
 Note:
-Hierbij hoort ook Dementie
+Bij VG reken ik ook Dementie
 
 --
 
-## Handicap \'criteria\'
+## Handicap 'criteria'
 
-Iedereen met \'kan niet schelen welke afstand tot de mainstream-maatschappij\' die binnen de handicap-criteria valt, hoort erbij.
+Iedereen met 'kan niet schelen welke afstand tot de mainstream-maatschappij' die binnen de handicap-criteria valt, hoort erbij.
 
 Criteria zijn in normaal Nederlands:
 - Het gaat niet over.
@@ -456,32 +468,34 @@ Criteria zijn in normaal Nederlands:
 
 --
 
+<!-- .slide: data-background-image="images/Diversity-accessibility.jpg" data-background-opacity="0.4" -->
 ## Ervaringsdeskundigen
 
-- Experts in het overleven van onmogelijke omstandigheden\: als \'even\' niks meer vanzelf gaat.
-- Net als iedereen willen we allemaal wat anders\: een handicap is geen identiteit.
+- Experts in het overleven van onmogelijke omstandigheden: als 'even' niks meer vanzelf gaat.
+- Net als iedereen willen we allemaal wat anders: een handicap is geen identiteit.
 
 --
 
 ## Samenwerken
 
-Werkgroep als **verbindende schakel en netwerk**
+Werkgroep als **verbindende schakel** en **netwerk**
 Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
-***Bondgenoten*** mobiliseren als je even verder nadenkt dan je eigenbelang smal is.
+**Bondgenoten** mobiliseren als je even verder nadenkt dan je eigenbelang smal is.
 
 --
 
 ## Doel en koers
 
-Handen \& voeten geven aan VN-verdrag 'Handicap'
+Handen & voeten geven aan VN-verdrag 'Handicap'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
 - Opleidingen en onderwijs
 - Openbare ruimte en de toegankelijkheid van voorzieningen
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
-Benut onze creativiteit \& veerkracht, op weg naar een duurzame samenleving
+
+Benut onze creativiteit & veerkracht, op weg naar een duurzame samenleving
 
 Note:
 Ook noemen:
@@ -490,6 +504,7 @@ Ook noemen:
 
 --
 
+<!-- .slide: data-background-image="images/Samenwerken.png" data-background-opacity="0.5" -->
 ## Werkwijze
 
 - Overleg gemeente: 2-wekelijks
@@ -513,6 +528,7 @@ WIJ- stichting is de uivoerder van WMO in Groningen
 - Forum, Stadhuis, scholen, MFC\'s, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra
 - Toegankelijkheid alle festivals
 - Live ondertiteling Raadsvergaderingen 1-1-2020
+- Gronings Sportakkoord, Woonvisie, 
 - RTV-Noord ondertiteling
 
 Note:
@@ -527,7 +543,7 @@ Documenten:- Brochures
 
 ---
 
-<!-- .slide: data-menu-title ="SWOT Toegankelijkheid" -->
+<!-- .slide: data-menu-title ="Toegankelijkheid: aan het wwerk!" data-background-image="images/TextEdit.png" data-background-opacity="0.4" -->
 ## Toegankelijkheid: aan het werk!
 
 - 4 slides SWOT analyse
@@ -540,8 +556,12 @@ Documenten:- Brochures
 - 5 punten per slide te geven
 - rouleren na 5 minuten
 
+Note:
+- Planning Toegankelijkheid aan het werk: 15 minuten, dus tot 15:45
+
 --
 
+<!-- .slide: data-menu-title ="Afronding" data-background-image="images/questionmarks.jpg" data-background-opacity="0.2" -->
 ## Afronding
 
 Samenvatting slides
@@ -551,12 +571,13 @@ Waar gaan jullie mee aan de slag\: <!-- .element: class="fragment" data-fragment
 - Ervaringsdeskundigen\?           <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
-
-Advies: begin klein & concreet
-Landelijk Sportakkoord – Veendammer Sportakkoord?
+- Advies: begin klein & concreet
+- Landelijk Sportakkoord – Veendammer Sportakkoord?
+- Planning Afronding: 16 minuten, dus tot 15:00
 
 --
 
+<!-- .slide: data-background-image="images/uncle_sam_wants_you.jpg" data-background-opacity="0.4" -->
 ## Einde
 
 Bedankt!
