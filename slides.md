@@ -590,8 +590,8 @@ Note:
 
 Note:
 - Laat de slides ophangen
-- Licht de opvallendste er uit en bespreek die
-- Planning Afronding: 10 minuten, dus tot 16:00
+- Licht de populairste er uit en bespreek die
+- Planning Samenvatting & Afronding: 10 minuten, dus tot 16:00
 
 --
 
@@ -605,7 +605,7 @@ Waar gaan jullie mee aan de slag:
 Note:
 - Advies: begin klein & concreet
 - Landelijk Sportakkoord – Veendammer Sportakkoord?
-- Planning Afronding: 10 minuten, dus tot 15:00
+- Planning Afronding: 10 minuten, dus tot 16:00
 
 --
 
@@ -613,5 +613,12 @@ Note:
 ## Bedankt!
 
 **Veel succes met de implementatie!**
+  
+***
+***
+  
+**6 November 2019**
 
-N.B. **6 November** Zorgbelang Academie Midden Groningen 
+Zorgbelang Academie Toegankelijkheid
+
+Midden Groningen
