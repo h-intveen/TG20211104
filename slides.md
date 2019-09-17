@@ -511,7 +511,7 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 Handen & voeten geven aan VN-verdrag 'Handicap'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
 - Opleidingen en onderwijs
-- Openbare ruimte en de toegankelijkheid van voorzieningen
+- Openbare ruimte & toegankelijkheid voorzieningen
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
