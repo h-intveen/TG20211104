@@ -210,7 +210,7 @@ Note:
   huisarts/tandarts/fysiotherapie/..
 - Voorkomen ontstaan nieuwe handicaps
 - Dezelfde kwaliteit zorg
-- Waardigheid & autnomie
+- Waardigheid & autonomie
 - Voorkomen zorg-discriminatie
 - Wachtlijsten
 
