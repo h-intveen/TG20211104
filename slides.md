@@ -511,7 +511,7 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 Handen & voeten geven aan VN-verdrag 'Handicap'
 - Wonen: aanpassingen in en om je huis tot acceptatie buurt
 - Opleidingen en onderwijs
-- Openbare ruimte & toegankelijkheid voorzieningen
+- Openbare ruimte & toeg. voorzieningen
 - Sport en recreatie
 - Cultuur, toerisme, festivals en evenementen
 - De digitale snelweg
@@ -546,10 +546,10 @@ Note:
 ## Output
 
 - Toegankelijke verkiezingen
-- Forum, Stadhuis, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad
+- Forum, Stadhuis, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, ..
 - Toegankelijkheid alle festivals
 - Live ondertiteling Raadsvergaderingen 1-1-2020
-- Gronings Sportakkoord, Woonvisie, 
+- Gronings Sportakkoord, Woonvisie
 - RTV-Noord ondertiteling
 
 Note:
