@@ -21,7 +21,7 @@ Note:
   Hidden features:
   Speaker notes window : hit »S« on your keyboard.
   Pause presentation :  hit »B« or ».«
-  Show menu: hit »m«
+  Show menu: hit »M«
 
 ---
 
@@ -47,7 +47,7 @@ Note:
  Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
-- Planning Introductie: 15 minuten, dus tot 14:15
+- Planning Introductie: 20 minuten, dus tot 14:20
 
 --
 
@@ -75,7 +75,7 @@ Note:
 
 ## Openbare ruimte (2)
 
-!![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
+![Parkeerbord verspert stoep](images/ParkeerbordVersperring.JPG)
 
 Note:
 - Bewustwording overheid & uitvoerders
@@ -95,7 +95,7 @@ Note:
 
 ## Handicap breed
 
-![Accessability signs](images/accessibility4pics.jpg)
+![Accessability signs](images/accessibility4pics.png)
 
 - beperkte mobiliteit
 - beperkt zicht
@@ -132,7 +132,7 @@ Note:
 
 ## Persoonlijke mobiliteit (2)
 
-![Zebra met verkeerslichten enb rateltikker](images/VoetgangerRateltikkerA.jpg)
+![Zebra met verkeerslichten enb rateltikker](images/VoetgangerRateltikker.png)
 
 Note:
 - Voorbeeld/foto : Voetgangersstoplichten met rateltikker - veiligheid voor blinden
@@ -153,7 +153,7 @@ Note:
 
 ## Toegang tot Informatie
 
-![Dynamisch route Informatie systeem](images/DRIS-A.jpg)
+![Dynamisch route Informatie systeem](images/DRIS.png)
 
 Note:
 - Foto Bus: bushalte met Digitaal Route informatie systeem en knop
@@ -246,7 +246,7 @@ Note:
 - Dit rapport gaat over de eerste twee jaar van het VN-verdrag in Nederland.
 - Het College heeft hierover contact gehad met mensen met een beperking.
 - En met organisaties voor en door mensen met een beperking.
-- Planning VN-Verdrag Handicap: 15 minuten, dus tot 14:30
+- Planning VN-Verdrag Handicap: 10 minuten, dus tot 14:30
 
 --
 
@@ -573,14 +573,14 @@ Note:
 <!-- .slide: data-menu-title ="Toegankelijkheid: aan het werk!" data-background-image="images/TextEdit.png" data-background-opacity="0.3" -->
 ## Toegankelijkheid: aan het werk!
 
-- 4 slides SWOT analyse
+- Vanuit 4 invalshoeken, elk 1 sheet:
   - Sterke punten Veendam
   - Zwakke punten Veendam
   - Kansen Veendam
   - Bedreigingen Veendam
 - 4 groepen
 - invullen/aanvullen punten
-- 5 punten per slide te geven
+- 5 punten per sheet uitdelen
 - rouleren na 5 minuten
 
 Note:
@@ -618,7 +618,7 @@ Note:
 ## Bedankt!
 
 **Veel succes met de implementatie!**
-  
+
 ***
 ***
   
@@ -627,3 +627,7 @@ Note:
 Zorgbelang Academie Toegankelijkheid
 
 Midden Groningen
+
+--
+
+<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
