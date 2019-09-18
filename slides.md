@@ -581,6 +581,8 @@ Note:
 - rouleren na 5 minuten
 
 Note:
+- Slides uiterlijk in de pauze ophangen!
+- (nieuwe) punten noteren, daarna 5 punten verdelen
 - Planning Toegankelijkheid aan het werk: 4 x 5 = 20 minuten, dus tot 15:50
 
 --
