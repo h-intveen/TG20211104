@@ -39,32 +39,20 @@ Images used in the slides are placed in the directory 'images'.
 
 ## Themes
 
-Custom themes with logos for KPN and DomoticaGrunn.
+Custom themes with logos for Toegankelijk Groningen.
 
 Images used in these themes are stored in the directory 'css>theme>images'.
 
-Default theme is kpn-light and is set in 'index.html'.
+Default theme is toegankelijkGroningen-light and is set in 'index.html'.
 
-### KPN-light
+### toegankelijkGroningen-light
 
-![KPN-light](images/KPN-light-small.png)
+![DG-light](images/TG-light-small.png)
 
-css/theme/kpn-light.css
+css/theme/toegankelijkGroningen-light.css
 
-### KPN-dark
+### toegankelijkGroningen-dark
 
-![KPN-dark](images/KPN-dark-small.png)
+![DG-dark](images/TG-dark-small.png)
 
-css/theme/dg-dark.css
-
-### DomoticaGrunn-light
-
-![DG-light](images/DG-light-small.png)
-
-css/theme/dg-light.css
-
-### DomoticaGrunn-dark
-
-![DG-dark](images/DG-dark-small.png)
-
-css/theme/dg-dark.css
+css/theme/toegankelijkGroningen-dark.css
