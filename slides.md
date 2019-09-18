@@ -550,7 +550,7 @@ Note:
 - Toegankelijkheid alle festivals
 - Live ondertiteling Raadsvergaderingen 1-1-2020
 - Revitalisering Stadhuis
-- Gronings Sportakkoord, Woonvisie
+- Gronings Sportakkoord, Woonvisie, ..
 - RTV-Noord ondertiteling
 
 Note:
@@ -558,6 +558,7 @@ Note:
 - Grunn Gras
 - MiVa Parkeerbeleid
 - Afvalscheiding, inclusief Harmonisatie
+- Verstrekkingsduur voorzieningen
 - Fietsbeleid
 - Documenten:
   - Brochures
