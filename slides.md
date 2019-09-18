@@ -546,9 +546,10 @@ Note:
 ## Output
 
 - Toegankelijke verkiezingen
-- Forum, Stadhuis, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, ..
+- Forum, scholen, MFC's, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, sportcentra, inrichting binnenstad, ..
 - Toegankelijkheid alle festivals
 - Live ondertiteling Raadsvergaderingen 1-1-2020
+- Revitalisering Stadhuis
 - Gronings Sportakkoord, Woonvisie
 - RTV-Noord ondertiteling
 
@@ -564,6 +565,7 @@ Note:
     - Integrale toegankelijkheid 2019
     - Waaier Toegankelijkheid HoreCa
 - Herhaal: Belangen kunnen verschillen of tegengesteld zijn, bijv. Shared Space
+- Revitalisering Stadhuis: architect (n)(r)oemde eerste samenwerking met TG werkgroep
 
 ---
 
@@ -581,7 +583,7 @@ Note:
 - rouleren na 5 minuten
 
 Note:
-- Slides uiterlijk in de pauze ophangen!
+- Voorbereiding: Slides uiterlijk in de pauze ophangen!
 - (nieuwe) punten noteren, daarna 5 punten verdelen
 - Planning Toegankelijkheid aan het werk: 4 x 5 = 20 minuten, dus tot 15:50
 
