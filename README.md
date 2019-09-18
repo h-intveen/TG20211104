@@ -56,3 +56,5 @@ css/theme/toegankelijkGroningen-light.css
 ![DG-dark](images/TG-dark-small.png)
 
 css/theme/toegankelijkGroningen-dark.css
+
+Many thanks to Albert(s) for helping me with the css ans all my issues!
