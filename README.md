@@ -47,13 +47,13 @@ Default theme is toegankelijkGroningen-light and is set in 'index.html'.
 
 ### toegankelijkGroningen-light
 
-![DG-light](images/TG-light-small.png)
+![TG-light](images/TG-light-small.png)
 
 css/theme/toegankelijkGroningen-light.css
 
 ### toegankelijkGroningen-dark
 
-![DG-dark](images/TG-dark-small.png)
+![TG-dark](images/TG-dark-small.png)
 
 css/theme/toegankelijkGroningen-dark.css
 
