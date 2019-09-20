@@ -19,9 +19,18 @@ Note:
       Type: Simple HTTP server: Create HTTP Server <enter>
       Choose where it should run
   Hidden features:
-  Speaker notes window : hit »S« on your keyboard.
-  Pause presentation :  hit »B« or ».«
-  Show menu: hit »M«
+  - Speaker notes window : hit »S« on your keyboard.
+  - Pause presentation :  hit »B« or ».«
+  = Show menu: hit »M«
+  Printing
+  -  http://localhost:8000/?print-pdf
+  -  http://localhost:8000/?print-pdf&showNotes=true
+  -  Open the in-browser print dialog (CTRL/CMD+P).
+    -  Change the Destination setting to Save as PDF.
+    -  Change the Layout to Landscape.
+    -  Change the Margins to None.
+    -  Enable the Background graphics option.
+    -  Click Save.
 
 ---
 
@@ -118,6 +127,12 @@ Note:
 - Spelenderwijs inclusiviteit laten ontstaan.
 - Je wilt toch ook graag naar een school vlakbij?
 - Vrijwilligers, voorlees-ouders, hebben soms ook een (tijdelijke) beperking
+- Mijn neefje had een juf op kleuterschool die in een rolstoel zat
+  Hij vond dat heel normaal..
+- In zijn middelbareschool tijd kwam met een vriendje bij ons pizza eten
+  Dat vriendje wist miet dat we in een rolstoel zat
+  Later vertelde mijn neefje dat zijn vriendje wel was 'geschrokken'
+- Op Borgmanschool 2 dove kinderen, directeur vindt dat zo gewoon, weet niet wat de aanpassingen waren
 
 --
 
@@ -137,6 +152,7 @@ Note:
 Note:
 - Voorbeeld/foto : Voetgangersstoplichten met rateltikker - veiligheid voor blinden
 - Geleidelijnen, looproutes blind & slechtziend, 
+- Groningen, in 30km zone zouden zebra's schijnveiliheid zijn: blinden voelen zich onveilig
 
 --
 
@@ -171,6 +187,7 @@ Note:
 Note:
 - Gelijke kansen
 - Werkvoorzieningen worden i.h.a. (deels) vergoed via UWV
+- N.B. Niet alle blinden kennen Braille!
 
 --
 
@@ -216,6 +233,7 @@ Note:
 
 Note:
 - Zorg: JvS: zelf draaien in ziekenhuis
+- Bij opname kan/moet hoofd kan hiervoor zorg opplussen: wordt vaak vergeten.
 
 --
 
@@ -273,6 +291,10 @@ Note:
 ## Maatschappelijke ondersteuning
 
 ![VN-Verdrag-MO](images/VN-Verdrag-MO.png)
+
+Note:
+- Bijvoorbeeld Alle 75+ een WMO taxipas: goedkoper als alle keuringsheisa.
+- Handicap toerisme
 
 --
 
@@ -368,6 +390,7 @@ Eenvoudige vraag:
 **Wat zijn de eisen, waaraan moet het voldoen?**
 
 Note:
+- Gemeente vraagt over toegankelijkheid gebouwem: geef ons de normen
 - Planning handvatten: 10 minuten, dus tot 14:50
 
 --
@@ -465,6 +488,7 @@ Note:
 
 Netwerk van en voor 'mensen met een handicap' in de Gemeente Groningen
 - Handicap-breed en sociaal!
+
 Onze 'bloedgroepen' zijn:
 - burgers met een fysieke handicap en meestal ook mobiliteits-gedoe.
 - blinden en slechtzienden.
@@ -534,12 +558,12 @@ Note:
 - Overleg projectleiders
 - Wandeling wethouder Toegankelijkheid
 - Deelname Let\'s Gro
-- Overleg WIJ-Stichting
 
 Note:
 - Overleg in de hal: zichtbaar zijn!
 - Nog lange weg naar natuurlijke consultatie
-- WIJ- stichting is de uivoerder van WMO in Groningen
+- W
+- Geert & Forum/Nieuwe markr: met zijn vinger over de tekening
 
 --
 
@@ -560,6 +584,8 @@ Note:
 - Afvalscheiding, inclusief Harmonisatie
 - Verstrekkingsduur voorzieningen
 - Fietsbeleid
+- Overleg WIJ-Stichting: Doven & NL Gebarentaal
+  Is de uivoerder van WMO in Groningen
 - Documenten:
   - Brochures
     - Handreiking Toegankelijkheid 2017
