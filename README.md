@@ -10,7 +10,7 @@ Reveal.js template with menu- and verticator plugin and customised themes
 - Slides in separate Markdown file
 - Themes with logos
   - ToegankelijkGroningen lifght and dark
- Title needs to be set in 'index.html'
+- Title needs to be set in 'index.html'
 
 ## Menu files
 
