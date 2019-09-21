@@ -129,7 +129,7 @@ Note:
 - Vrijwilligers, voorlees-ouders, hebben soms ook een (tijdelijke) beperking
 - Mijn neefje had een juf op kleuterschool die in een rolstoel zat
   Hij vond dat heel normaal..
-- In zijn middelbareschool tijd kwam met een vriendje bij ons pizza eten
+- In zijn middelbareschool tijd kwam hij met een vriendje bij ons pizza eten
   Dat vriendje wist miet dat we in een rolstoel zat
   Later vertelde mijn neefje dat zijn vriendje wel was 'geschrokken'
 - Op Borgmanschool 2 dove kinderen, directeur vindt dat zo gewoon, weet niet wat de aanpassingen waren
