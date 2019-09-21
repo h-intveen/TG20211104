@@ -9,9 +9,8 @@ Reveal.js template with menu- and verticator plugin and customised themes
 - Vertical slides indicator (plugin)
 - Slides in separate Markdown file
 - Themes with logos
-  - KPN, light and dark
-  - DomoticaGrunn, light and dark
-- Title needs to be set in 'index.html'
+  - ToegankelijkGroningen lifght and dark
+ Title needs to be set in 'index.html'
 
 ## Menu files
 
