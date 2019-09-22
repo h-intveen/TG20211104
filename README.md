@@ -40,7 +40,7 @@ Images used in the slides are placed in the directory 'images'.
 
 Custom themes with logos for Toegankelijk Groningen.
 
-Images used in these themes are stored in the directory 'css>theme>images'.
+Images used in these themes are stored in the directory 'css/theme/images'.
 
 Default theme is toegankelijkGroningen-light and is set in 'index.html'.
 
