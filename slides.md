@@ -21,7 +21,7 @@ Note:
   Hidden features:
   - Speaker notes window : hit »S« on your keyboard.
   - Pause presentation :  hit »B« or ».«
-  = Show menu: hit »M«
+  - Show menu: hit »M«
   Printing
   -  http://localhost:8000/?print-pdf
   -  http://localhost:8000/?print-pdf&showNotes=true
