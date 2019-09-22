@@ -645,8 +645,7 @@ Note:
 
 **Veel succes met de implementatie!**
 
-***
-***
+</br></br></br>
   
 **6 November 2019**
 
