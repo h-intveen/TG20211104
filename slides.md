@@ -528,6 +528,12 @@ Samen sterker, gebruik elkaars ervaring en kwaliteiten.
 
 **Bondgenoten** mobiliseren als je even verder nadenkt dan je eigenbelang smal is.
 
+Sociaal model i.t.t. Individueel/medisch model
+
+Notes:
+- Sociaal model: niet benaderen van uit medisch/individueel perspectief
+  maar hoe we samen dingen kunnen oplossen
+
 --
 
 ## Doel en koers
