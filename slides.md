@@ -486,8 +486,7 @@ Note:
 <!-- .slide: data-background-image="images/puzzle.jpg" data-background-opacity="0.3" -->
 ## Werkgroep TG
 
-Netwerk van en voor 'mensen met een handicap' in de Gemeente Groningen
-- Handicap-breed en sociaal!
+Netwerk van en voor 'mensen met een handicap' in de Gemeente Groningen: Handicap-breed en sociaal!
 
 Onze 'bloedgroepen' zijn:
 - burgers met een fysieke handicap en meestal ook mobiliteits-gedoe.
