@@ -562,7 +562,6 @@ Note:
 Note:
 - Overleg in de hal: zichtbaar zijn!
 - Nog lange weg naar natuurlijke consultatie
-- W
 - Geert & Forum/Nieuwe markr: met zijn vinger over de tekening
 
 --
