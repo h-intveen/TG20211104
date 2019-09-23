@@ -261,6 +261,9 @@ Bron zijn mensen en organisaties
 
 Note:
 - Officieel: "VN-Verdrag inzake de rechten van personen met een handicap"
+- Amendement Van der Staaij en Bergkamp ter vervanging van nr. 19:
+- Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordigende organisaties bij het opstellen van het beleid betrokken worden.
+- VN-verdrag: niet vrijblijvend, gemeenten moeten plan maken hoe ze hier uitvoering aan geven!
 - Dit rapport gaat over de eerste twee jaar van het VN-verdrag in Nederland.
 - Het College heeft hierover contact gehad met mensen met een beperking.
 - En met organisaties voor en door mensen met een beperking.
@@ -369,9 +372,6 @@ Note:
   - Stap voor stap
 
 Note:
-- Amendement Van der Staaij en Bergkamp ter vervanging van nr. 19:
-- Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordygende organisaties bij het opstellen van het beleid betrokken worden.
-- VN-verdrag: niet vrijblivend, gemeenten moeten plan maken hoe ze hier uitvoering aan geven!
 - Willen
   - Gemeente en ervaringsdeskundigen
   - Vergroten: Ervaringsparcoursen en -verhalen: resultaat motiveert, waardering ook.
