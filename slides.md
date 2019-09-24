@@ -53,7 +53,7 @@ Note:
 
  Is dit fysieke toegankelijkheid?   <!-- .element: class="fragment" data-fragment-index="1" -->
 
- Dat is inderdaad belangrijk!       <!-- .element: class="fragment" data-fragment-index="2" -->
+ Dat is uiteraard randvoorwaarde!   <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
 - Planning Introductie: 20 minuten, dus tot 14:20
@@ -96,7 +96,7 @@ Note:
 
  Is dit fysieke toegankelijkheid?
 
- Dat is inderdaad belangrijk!
+ Dat is uiteraard randvoorwaarde!
 
  Maar er is zoveel meer...
 
