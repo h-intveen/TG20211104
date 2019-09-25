@@ -430,18 +430,14 @@ Note:
 --
 
 <!-- .slide: data-background-image="images/exploding_head.png" data-background-opacity="0.2" -->
-## Hoe verder...
+## Hoe verder..
 
 - Ontoegankelijkheid is vaak geen opzet       <!-- .element: class="fragment" data-fragment-index="1" -->
-
 - Laat beslissers zelf ervaren                <!-- .element: class="fragment" data-fragment-index="2" -->
-
 - Het begint met er over praten: (h)erkennen  <!-- .element: class="fragment" data-fragment-index="3" -->
-
 - Vraag mensen die dat ondervinden:           <!-- .element: class="fragment" data-fragment-index="4" -->
   Ervaringsdeskundigen kunnen helpen          <!-- .element: class="fragment" data-fragment-index="4" -->
-
-**Zoek ervaringsdeskundigen en betrek ze!** <!-- .element: class="fragment" data-fragment-index="5" -->
+- **Zoek ervaringsdeskundigen en betrek ze!** <!-- .element: class="fragment" data-fragment-index="5" -->
 
 Note:
 - Vaak geen opzet, onwil, of doel maar onwetendheid, of angst/handelingsverlegenheid
