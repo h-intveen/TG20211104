@@ -76,6 +76,7 @@ Simpel kip en ei verhaal!
 ![Fietsoverlast op de stoep](images/Fietsoverlast-1.png)
 
 Note:
+- Bewustwording burgers
 - Vooral in de stad Groningen is fietsoverlast een groot probleem.
 - Daar zijn we als werkgroep ook bij betrokken
 - De gemeente start met een campagne voor bewustwording
@@ -129,7 +130,7 @@ Note:
 - Vrijwilligers, voorlees-ouders, hebben soms ook een (tijdelijke) beperking
 - Mijn neefje had een juf op kleuterschool die in een rolstoel zat
   Hij vond dat heel normaal..
-- In zijn middelbareschool tijd kwam hij met een vriendje bij ons pizza eten
+- In zijn middelbare school tijd kwam hij met een vriendje bij ons pizza eten
   Dat vriendje wist miet dat we in een rolstoel zat
   Later vertelde mijn neefje dat zijn vriendje wel was 'geschrokken'
 - Op Borgmanschool 2 dove kinderen, directeur vindt dat zo gewoon, weet niet wat de aanpassingen waren
@@ -152,7 +153,7 @@ Note:
 Note:
 - Voorbeeld/foto : Voetgangersstoplichten met rateltikker - veiligheid voor blinden
 - Geleidelijnen, looproutes blind & slechtziend, 
-- Groningen, in 30km zone zouden zebra's schijnveiliheid zijn: blinden voelen zich onveilig
+- Groningen, in 30km zone zouden zebra's schijnveiligheid zijn: blinden voelen zich onveilig
 
 --
 
@@ -265,7 +266,9 @@ Note:
 - Het is de bedoeling van de indieners dat gemeenten één integraal plan ontwikkelen voor het hele sociale domein. Concreet kan dit worden uitgewerkt in een Lokale Inclusie Agenda. Het is uitdrukkelijk de bedoeling van de indieners dat mensen met een beperking en hun vertegenwoordigende organisaties bij het opstellen van het beleid betrokken worden.
 - VN-verdrag: niet vrijblijvend, gemeenten moeten plan maken hoe ze hier uitvoering aan geven!
 - Dit rapport gaat over de eerste twee jaar van het VN-verdrag in Nederland.
-- Het College heeft hierover contact gehad met mensen met een beperking.
+- Het College krijgt officiele input Nederlandse overheid.
+- Schaduwrapportage door Alliantie VN-Verdrag o.v.v. VN-comité in Genève:
+  Niet vanuit NL overheid maar: belangenorganisaties & ervaringsdeskundigen.
 - En met organisaties voor en door mensen met een beperking.
 - Planning VN-Verdrag Handicap: 10 minuten, dus tot 14:30
 
