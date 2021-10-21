@@ -106,12 +106,21 @@ Note:
 ---
 
 <!-- .slide: data-menu-title="Voorstel kenmerken Toegankelijkheid" -->
-## Voorstel kenmerken Toegankelijkheid
+## Toegankelijkheid (1)
 
-Kenmerk 1  <!-- .element: class="fragment" data-fragment-index="1" -->
-Kenmerk 2 <!-- .element: class="fragment" data-fragment-index="2" -->
-Kenmerk 3 <!-- .element: class="fragment" data-fragment-index="3" -->
+OV           <!-- .element: class="fragment" data-fragment-index="1" -->
 
+Parkeren     <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Aanlooproute <!-- .element: class="fragment" data-fragment-index="3" -->
+
+Entree       <!-- .element: class="fragment" data-fragment-index="4" -->
+
+Sanitair     <!-- .element: class="fragment" data-fragment-index="5" -->
+
+Restauratie     <!-- .element: class="fragment" data-fragment-index="6" -->
+
+Voorzieningen     <!-- .element: class="fragment" data-fragment-index="7" -->
 
 Note:
 - Notities...
@@ -119,12 +128,19 @@ Note:
 --
 
 <!-- .slide: data-menu-title="Werkbare kenmerken Toegankelijkheid" -->
-## Werkbare kenmerken Toegankelijkheid
+## Toegankelijkheid (2)
 
-Kenmerk 1
-Kenmerk 2
-Kenmerk 3
+Gehoorbeperking <!-- .element: class="fragment" data-fragment-index="1" -->
 
+Verdiepingen    <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Lift            <!-- .element: class="fragment" data-fragment-index="3" -->
+
+Trap            <!-- .element: class="fragment" data-fragment-index="4" -->
+
+Cultuur         <!-- .element: class="fragment" data-fragment-index="5" -->
+
+Overnachten     <!-- .element: class="fragment" data-fragment-index="6" -->
 
 Note:
 - Notities...
