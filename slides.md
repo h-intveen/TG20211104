@@ -38,7 +38,7 @@ Note:
 <!-- .slide: data-menu-title="Agenda" data-background-image="images/stopwatch.jpg" data-background-opacity="0.2" -->
 ## Inhoud workshop:
 
-1. Toelichting ToegankelijkGroningen.nl
+1. Toelichting website
 2. Belang om mee te doen
 3. Workshop kenmerken Toegankelijkheid
 
