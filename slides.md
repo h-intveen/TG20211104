@@ -108,8 +108,8 @@ Note:
 ## Voorstel kenmerken Toegankelijkheid
 
 Kenmerk 1  <!-- .element: class="fragment" data-fragment-index="1" -->
-Kemnmerk 2 <!-- .element: class="fragment" data-fragment-index="2" -->
-Kenmwerk 3 <!-- .element: class="fragment" data-fragment-index="3" -->
+Kenmerk 2 <!-- .element: class="fragment" data-fragment-index="2" -->
+Kenmerk 3 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 Note:
@@ -121,14 +121,14 @@ Note:
 ## Werkbare kenmerken Toegankelijkheid
 
 Kenmerk 1
-Kemnmerk 2
-Kenmwerk 3
+Kenmerk 2
+Kenmerk 3
 
 
 Note:
 - Notities...
 
---
+---
 
 <!-- .slide: data-background-image="images/uncle_sam_wants_you.jpg" data-background-opacity="0.3" -->
 ## Bedankt!
