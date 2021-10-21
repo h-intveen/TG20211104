@@ -49,8 +49,8 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Toelichting ToegankelijkGroningen.nl" -->
-## Toelichting ToegankelijkGroningen.nl
+<!-- .slide: data-menu-title="Toelichting website" -->
+## Toelichting website
 
  Wat is ToegankelijkGroningen.nl        <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -91,6 +91,7 @@ Betrokkenheid laten zien     <!-- .element: class="fragment" data-fragment-index
 Bewustwording vergroten      <!-- .element: class="fragment" data-fragment-index="4" -->
 
 Stimuleren                   <!-- .element: class="fragment" data-fragment-index="5" -->
+
 
 Note:
 - VN-Verdrag Handicap (2016), volwaardig deelnemen aan de maatschappij
