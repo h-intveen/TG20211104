@@ -108,9 +108,9 @@ Note:
 <!-- .slide: data-menu-title="Workshop Kenmerken" -->
 ## Workshop Kenmerken
 
-Volgende slides geven de voorvgestelde Toegankelijkheids kenmerken
+Volgende slides geven de voorgestelde Toegankelijkheids kenmerken
 Hierover willen we graag met u in gesprek
-Princioes:
+Principes:
 - Logische blokken
 - Wat niet van toepassing is niet invullen
 
