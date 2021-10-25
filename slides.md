@@ -105,22 +105,98 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Voorstel kenmerken Toegankelijkheid" -->
-## Toegankelijkheid (1)
+<!-- .slide: data-menu-title="Workshop Kenmerken" -->
+## Workshop Kenmerken
 
-OV           <!-- .element: class="fragment" data-fragment-index="1" -->
+Volgende slides geven de voorvgestelde Toegankelijkheids kenmerken
+Hierover willen we graag met u in gesprek
+Princioes:
+- Logische blokken
+- Wat niet van toepassing is niet invullen
 
-Parkeren     <!-- .element: class="fragment" data-fragment-index="2" -->
+Note:
+- Notities...
 
-Aanlooproute <!-- .element: class="fragment" data-fragment-index="3" -->
+--
 
-Entree       <!-- .element: class="fragment" data-fragment-index="4" -->
+<!-- .slide: data-menu-title="Aankomst - OV" -->
+## Aankomst - OV
 
-Sanitair     <!-- .element: class="fragment" data-fragment-index="5" -->
+- Bushalte?
+- Geleidelijnen?
+- Afstand entree: < 200m ; 200-500 m; >500m
+  </p>
+- Treinstation?
+- Afstand  entree: < 200m ; 200-500 m; >500m
 
-Restauratie     <!-- .element: class="fragment" data-fragment-index="6" -->
+--
 
-Voorzieningen     <!-- .element: class="fragment" data-fragment-index="7" -->
+<!-- .slide: data-menu-title="Aankomst - Parkeren" -->
+## Aankomst - Parkeren
+
+- Parkeerplaatsen bezoekers?
+- Parkeerplaatsen Invalide bezoekers
+  - Aantal parkeerplaatsen?
+  - Afstand parkeerplaats - entree (m)?
+- Trottoir oprit, verlaagd of n.v.t.?
+
+--
+
+<!-- .slide: data-menu-title="Aankomst - Aanlooproute" -->
+## Aankomst - Aanlooproute
+
+- Obstakelvrij?
+- Berijdbaar?
+- Geleidelijn?
+- Hellingbaan?
+  - Lengte hellingbaan (cm)
+  - Hoogte hellingbaan (cm)
+  - Is er een rustbordes?
+  - Leuning hellingbaan?
+
+--
+
+<!-- .slide: data-menu-title="Aankomst - Entree (1)" -->
+## Aankomst - Entree (1)
+
+- Hoofdingang toegankelijk?
+- Drempel?
+  - Hoogte drempel (cm)?
+- Bereikbare bel?
+- Toegangsdeur breedte (cm)?
+- Soort toegangsdeur?
+- Bereikbare bediening deur?
+- Deurdranger?
+
+--
+
+<!-- .slide: data-menu-title="Aankomst - Entree (2)" -->
+## Aankomst - Entree (2)
+
+- Receptie aanwezig?
+  - Op logische plek (bij ingang)?
+  - Hoogtebalie (cm) *?
+- Bruikbare PIN-voorziening?
+- Duidelijke bewegwijzering (contrast)?
+- Goed contrast in gebouw?
+
+--
+
+<!-- .slide: data-menu-title="Toegankelijkheid - Binnemn" -->
+## Binnen
+
+Binnen
+
+- Sanitair     <!-- .element: class="fragment" data-fragment-index="5" -->
+
+- Restauratie     <!-- .element: class="fragment" data-fragment-index="6" -->
+
+- Voorzieningen     <!-- .element: class="fragment" data-fragment-index="7" -->
+
+- Lift            <!-- .element: class="fragment" data-fragment-index="3" -->
+
+- Trap            <!-- .element: class="fragment" data-fragment-index="4" -->
+
 
 Note:
 - Notities...
@@ -134,10 +210,6 @@ Gehoorbeperking <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Verdiepingen    <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Lift            <!-- .element: class="fragment" data-fragment-index="3" -->
-
-Trap            <!-- .element: class="fragment" data-fragment-index="4" -->
-
 Cultuur         <!-- .element: class="fragment" data-fragment-index="5" -->
 
 Overnachten     <!-- .element: class="fragment" data-fragment-index="6" -->
@@ -150,7 +222,7 @@ Note:
 <!-- .slide: data-background-image="images/uncle_sam_wants_you.jpg" data-background-opacity="0.3" -->
 ## Bedankt!
 
-**Bedankt voor uw deelname!**
+**voor uw deelname!**
 
 
 ---
