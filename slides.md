@@ -175,47 +175,123 @@ Note:
 
 - Receptie aanwezig?
   - Op logische plek (bij ingang)?
-  - Hoogtebalie (cm) *?
+  - Hoogtebalie (cm)?
 - Bruikbare PIN-voorziening?
 - Duidelijke bewegwijzering (contrast)?
 - Goed contrast in gebouw?
 
 --
 
-<!-- .slide: data-menu-title="Toegankelijkheid - Binnemn" -->
-## Binnen
+<!-- .slide: data-menu-title="Binnen - Sanitair" -->
+## Binnen - Sanitair
 
-Binnen
-
-- Sanitair     <!-- .element: class="fragment" data-fragment-index="5" -->
-
-- Restauratie     <!-- .element: class="fragment" data-fragment-index="6" -->
-
-- Voorzieningen     <!-- .element: class="fragment" data-fragment-index="7" -->
-
-- Lift            <!-- .element: class="fragment" data-fragment-index="3" -->
-
-- Trap            <!-- .element: class="fragment" data-fragment-index="4" -->
-
-
-Note:
-- Notities...
+- Rolstoeltoegankelijk toilet?
+  - Met beugels?
+  - Wastafel onderrijdbaar?
+  - Spiegel laag genoeg?
+  - Kraan bedienbaar vanuit rolstoel?
+  - Draaicirkel voldoende?
+- Verschoonvoorziening
+  - Hoogte (cm)
+- Alarm- koord of bel?
+- Werkt het alarmkoord?
+- Personeel op de hoogte?
 
 --
 
-<!-- .slide: data-menu-title="Werkbare kenmerken Toegankelijkheid" -->
-## Toegankelijkheid (2)
+<!-- .slide: data-menu-title="Binnen - Restauratie" -->
+## Binnen - Restauratie
 
-Gehoorbeperking <!-- .element: class="fragment" data-fragment-index="1" -->
+- Is er een eetgelegenheid
+  - Toegankelijke eetgelegenheid?
+  - Is er een terras?
+    - Toegankelijk terras?
+  - Voor minder valide geschikte tafels en stoelen?
+    - Ook stoelen met leuning?
+    - Hoogte onderkant tafel (cm)?
 
-Verdiepingen    <!-- .element: class="fragment" data-fragment-index="2" -->
+--
 
-Cultuur         <!-- .element: class="fragment" data-fragment-index="5" -->
+<!-- .slide: data-menu-title="Binnen - Voorzieningen" -->
+## Binnen - Voorzieningen
 
-Overnachten     <!-- .element: class="fragment" data-fragment-index="6" -->
+- Hulp en of begeleiding (assistentie)?
+- Bergruimte scootmobielen/hulpmiddelen?
+- Zijn er scootmobielplaatsen?
+- Aantal scootmobielplaatsen?
+- Oplaadpunten-fiets/scootmobiel?
+- Geen achtergrondmuziek?
+- Ringleiding?
 
-Note:
-- Notities...
+--
+
+<!-- .slide: data-menu-title="Binnen - Uitgankelijkheid" -->
+## Binnen - Uitgankelijkheid
+
+- Vluchtroute drempelvrij?
+- Vluchtroute breed genoeg voor rolstoel (90 cm)?
+- Vluchtroute berijdbaar?
+- Is er een evacuatieplan voor rolstoelers?
+
+--
+
+<!-- .slide: data-menu-title="Binnen - Lift" -->
+## Binnen - Lift
+
+- Lift aanwezig?
+  - Plateau lift?
+  - met druppel?
+  - Deur elektrisch?
+  - Bedienbaar vanuit een rolstoel?
+  - Verdiepingen hoorbaar aangegeven?
+  - Knoppen met braillemarkering?
+
+--
+
+<!-- .slide: data-menu-title="Binnen - Trap" -->
+## Binnen - Trap
+
+- Trap aanwezig?
+  - Met leuning?
+	  - Doorlopend?
+  - Trapmarkering?
+  - Roltrap/rolband?
+  - Traplift?
+    - Traplift bel aanwezig?
+
+--
+
+<!-- .slide: data-menu-title="Binnen  - Cultuur" -->
+## Binnen  - Cultuur
+
+- Aangepaste zit- rolstoelplaatsen?
+  - Aantal rolstoelplaatsen?
+- Moeten rolstoelers vooraf reserveren?
+- Voorzieningen tijdens de pauze?
+- Rolstoeltoegankelijke garderobe?
+
+--
+
+<!-- .slide: data-menu-title="Binnen  - Overnachten" -->
+## Binnen  - Overnachten
+
+- Overnachtingsmogelijkheid?
+- Aangepaste kamer(s)?
+  - Aantal kamers?
+- Hoog/laag bed?
+- Hoogte bed (cm)?
+- Alarm-koord of bel?
+- Aangepaste bediening verlichting etc.?
+- Rolstoeltoegankelijk badkamer?
+- Rolstoeltoegankelijke douche?
+
+--
+
+<!-- .slide: data-menu-title="Binnen  - Overig" -->
+## Buiten  - Overig
+
+- Voorzieningen zwembad?
+  - Tillift zwembad?
 
 ---
 
