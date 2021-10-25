@@ -110,6 +110,7 @@ Note:
 
 Volgende slides geven de voorgestelde Toegankelijkheids kenmerken
 Hierover willen we graag met u in gesprek
+  
 Principes:
 - Logische blokken
 - Wat niet van toepassing is niet invullen
