@@ -1,6 +1,6 @@
 
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
-## Presentatie ToegankelijkheidGroningen.nl
+## Presentatie ToegankelijkGroningen.nl
 4-11-2021
 
 Note:
@@ -46,6 +46,7 @@ Note:
 - Punt 1a: Herman, punt 1b: Bert, punt 1c: ?
 - Punt 2:
 - Punt 3: samen met u
+- Totaal 25 minuten, daarna nog 5 minuten voor project wWinnaar Toegankelijkheids prijs
 
 ---
 
@@ -288,7 +289,7 @@ Note:
 
 --
 
-<!-- .slide: data-menu-title="Binnen  - Overig" -->
+<!-- .slide: data-menu-title="Buiten  - Overig" -->
 ## Buiten  - Overig
 
 - Voorzieningen zwembad?
@@ -297,7 +298,7 @@ Note:
 ---
 
 <!-- .slide: data-background-image="images/uncle_sam_wants_you.jpg" data-background-opacity="0.3" -->
-## Bedankt!
+### Bedankt!
 
 **voor uw deelname!**
 
