@@ -158,8 +158,8 @@ Note:
 <!-- .slide: data-menu-title="Aankomst - Aanlooproute" -->
 ## Aankomst - Aanlooproute
 
-- De route van de parkeerplaats naar de entree is obstakelvrij
-- De route van de parkeerplaats naar de entree is verhard
+- De route van de parkeerplaats naar de entree is obstakelvrij?
+- De route van de parkeerplaats naar de entree is verhard?
 - Is de stoeprand verlaagd?
 - Is er sprake van een hellingbaan?
 
@@ -168,7 +168,7 @@ Note:
 <!-- .slide: data-menu-title="Entree - Algemeen" -->
 ## Entree - Algemeen
 
--  de hoofdingang toegankelijk
+-  Is de hoofdingang toegankelijk?
 -  Is de entreedeur drempelvrij?
 -  Is de deurbel bereikbaar?
 -  Gaat de entreedeur handmatig of automatisch open?
@@ -186,7 +186,7 @@ Note:
 - Heeft de balie een verlaagd gedeelte?
 - Is er een zitmogelijkheid bij de balie?
 - Is er een draagbare pin-automaat?
-- Kan deze ook gebruikt worden door blinden/slechtzienden (relief)?
+  - Kan deze ook gebruikt worden door blinden/slechtzienden (relief)?
 
 --
 
