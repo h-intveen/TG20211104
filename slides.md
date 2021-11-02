@@ -297,12 +297,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="images/uncle_sam_wants_you.jpg" data-background-opacity="0.3" -->
+<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
 ### Bedankt!
 
 **voor uw deelname!**
-
-
----
-
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
