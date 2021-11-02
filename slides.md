@@ -41,12 +41,13 @@ Note:
 1. Toelichting website
 2. Belang om mee te doen
 3. Workshop kenmerken Toegankelijkheid
+4. Project winnaar Toegankelijkheids prijs
 
 Note:
 - Punt 1a: Herman, punt 1b: Bert, punt 1c: ?
 - Punt 2:
 - Punt 3: samen met u
-- Totaal 25 minuten, daarna nog 5 minuten voor project wWinnaar Toegankelijkheids prijs
+- Totaal 25 minuten, daarna nog 5 minuten voor project winnaar Toegankelijkheids prijs
 
 ---
 
