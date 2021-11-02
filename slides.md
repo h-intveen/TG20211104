@@ -122,179 +122,191 @@ Note:
 
 --
 
+<!-- .slide: data-menu-title="Algemeen" -->
+## Algemeen
+
+- Naam
+- Straatnaam
+- Huisnummer
+- Toevoeging
+- Postcode
+- Plaatsnaam
+- Telefoon
+- E-mail
+- Website
+
+--
+
 <!-- .slide: data-menu-title="Aankomst - OV" -->
 ## Aankomst - OV
 
-- Bushalte?
-- Geleidelijnen?
-- Afstand entree: < 200m ; 200-500 m; >500m
-  </p>
-- Treinstation?
-- Afstand  entree: < 200m ; 200-500 m; >500m
+- De OV halte bevindt zich op …. meter afstand van de entree?
+- De route van en naar de halte is obstakelvrij?
+- De route heeft contrastmarkering/geleidelijn?
 
 --
 
 <!-- .slide: data-menu-title="Aankomst - Parkeren" -->
 ## Aankomst - Parkeren
 
-- Parkeerplaatsen bezoekers?
-- Parkeerplaatsen Invalide bezoekers
-  - Aantal parkeerplaatsen?
-  - Afstand parkeerplaats - entree (m)?
-- Trottoir oprit, verlaagd of n.v.t.?
+- Zijn er bezoekersparkeerpaatsen op eigen terrein?
+- ZIjn er gehandicaptenparkeerplaatsen op eigen terrein?
+- Wat is de breedte van de gehandicaptenparkeerplaats?
 
 --
 
 <!-- .slide: data-menu-title="Aankomst - Aanlooproute" -->
 ## Aankomst - Aanlooproute
 
-- Obstakelvrij?
-- Berijdbaar?
-- Geleidelijn?
-- Hellingbaan?
-  - Lengte hellingbaan (cm)
-  - Hoogte hellingbaan (cm)
-  - Is er een rustbordes?
-  - Leuning hellingbaan?
+- De route van de parkeerplaats naar de entrée is obstakelvrij
+- De route van de parkeerplaats naar de entrée is verhard
+- Is de stoeprand verlaagd?
+- Is er sprake van een hellingbaan?
 
 --
 
-<!-- .slide: data-menu-title="Aankomst - Entree (1)" -->
-## Aankomst - Entree (1)
+<!-- .slide: data-menu-title="Entree - Algemeen" -->
+## Entree - Algemeen
 
-- Hoofdingang toegankelijk?
-- Drempel?
-  - Hoogte drempel (cm)?
-- Bereikbare bel?
-- Toegangsdeur breedte (cm)?
-- Soort toegangsdeur?
-- Bereikbare bediening deur?
-- Deurdranger?
-
---
-
-<!-- .slide: data-menu-title="Aankomst - Entree (2)" -->
-## Aankomst - Entree (2)
-
-- Receptie aanwezig?
-  - Op logische plek (bij ingang)?
-  - Hoogtebalie (cm)?
-- Bruikbare PIN-voorziening?
-- Duidelijke bewegwijzering (contrast)?
-- Goed contrast in gebouw?
+-  de hoofdingang toegankelijk
+-  Is de entreedeur drempelvrij?
+-  Is de deurbel bereikbaar?
+-  Gaat de entreedeur handmatig of automatisch open?
+-  Is er een opstelruimte voor een scootmobiel of rollator
+-  Is er sprake van een tussendeur (met deurdranger)?
+-  Zijn er oplaadpunten voor een scootmobiel of elektrische fiets?
 
 --
 
-<!-- .slide: data-menu-title="Binnen - Sanitair" -->
-## Binnen - Sanitair
+<!-- .slide: data-menu-title="Entree - Balie/ontvangsruimte" -->
+## Entree - Balie/ontvangsruimte
 
-- Rolstoeltoegankelijk toilet?
-  - Met beugels?
-  - Wastafel onderrijdbaar?
-  - Spiegel laag genoeg?
-  - Kraan bedienbaar vanuit rolstoel?
-  - Draaicirkel voldoende?
-- Verschoonvoorziening
-  - Hoogte (cm)
-- Alarm- koord of bel?
-- Werkt het alarmkoord?
-- Personeel op de hoogte?
+- Is er een receptie aanwezig?
+- Zit de balie op logische plek (bij de entree)?
+- Heeft de balie een verlaagd gedeelte?
+- Is er een zitmogelijkheid bij de balie?
+- Is er een draagbare pin-automaat?
+- Kan deze ook gebruikt worden door blinden/slechtzienden (relief)?
 
 --
 
-<!-- .slide: data-menu-title="Binnen - Restauratie" -->
-## Binnen - Restauratie
+<!-- .slide: data-menu-title="Entree - Toegankelijkheid binnen" -->
+## Entree - Toegankelijkheid binnen
 
-- Is er een eetgelegenheid
-  - Toegankelijke eetgelegenheid?
-  - Is er een terras?
-    - Toegankelijk terras?
-  - Voor minder valide geschikte tafels en stoelen?
-    - Ook stoelen met leuning?
-    - Hoogte onderkant tafel (cm)?
-
---
-
-<!-- .slide: data-menu-title="Binnen - Voorzieningen" -->
-## Binnen - Voorzieningen
-
-- Hulp en of begeleiding (assistentie)?
-- Bergruimte scootmobielen/hulpmiddelen?
-- Zijn er scootmobielplaatsen?
-- Aantal scootmobielplaatsen?
-- Oplaadpunten-fiets/scootmobiel?
-- Geen achtergrondmuziek?
-- Ringleiding?
-
---
-
-<!-- .slide: data-menu-title="Binnen - Uitgankelijkheid" -->
-## Binnen - Uitgankelijkheid
-
-- Vluchtroute drempelvrij?
-- Vluchtroute breed genoeg voor rolstoel (90 cm)?
-- Vluchtroute berijdbaar?
-- Is er een evacuatieplan voor rolstoelers?
+- Is er duidelijke contrasterende bewegwijzering?
+- Is het gebouw drempelvrij?
+- Zijn de vertrekken toegankelijk voor rolstoel?
+- Is er een glazen (scheidings)wand of deur aanwezig?
+- Is er een gastvrouw of begeleiding beschikbaar?
 
 --
 
 <!-- .slide: data-menu-title="Binnen - Lift" -->
 ## Binnen - Lift
 
-- Lift aanwezig?
-  - Plateau lift?
-  - met druppel?
-  - Deur elektrisch?
-  - Bedienbaar vanuit een rolstoel?
-  - Verdiepingen hoorbaar aangegeven?
-  - Knoppen met braillemarkering?
+- LIs er een personenlift aanwezig?
+- Is de liftdeur elektrisch bedienbaar?
+- Is de liftdeur op afstand te openen? (knop langs de wand)
+- Is de lift te bedienen vanuit de rolstoel?
+- Is het bedieningspaneel voorzien van braille relief?
+- Worden de verdiepingen hoorbaar aangegeven?
 
 --
 
 <!-- .slide: data-menu-title="Binnen - Trap" -->
 ## Binnen - Trap
 
-- Trap aanwezig?
-  - Met leuning?
-	  - Doorlopend?
-  - Trapmarkering?
-  - Roltrap/rolband?
-  - Traplift?
-    - Traplift bel aanwezig?
+- Heeft de trap contrasterende markering op de traptreden?
+- Is er een leuning (aan beide zijden)?
+- Is de leuning doorlopend
+- Is er een traplift aanwezig?
 
 --
 
-<!-- .slide: data-menu-title="Binnen  - Cultuur" -->
-## Binnen  - Cultuur
+<!-- .slide: data-menu-title="Binnen - Sanitair" -->
+## Binnen - Sanitair
 
-- Aangepaste zit- rolstoelplaatsen?
-  - Aantal rolstoelplaatsen?
+- Is er een rolstoelvriendelijk toilet?
+- Is het toilet goed bereikbaar?
+- Is de draaicirkel in het toilet groot genoeg?
+- Is er duidelijke bewegwijzering naar het toilet?
+- Heeft het toilet armsteunen en/of beugels?
+- Is de wastafel onderrijdbaar
+- Is de kraan bedienbaar vanuit de rolstoel?
+- Hangt de spiegel op de goede hoogte?
+- Is er een alarmkoord aanwezig?
+
+--
+
+<!-- .slide: data-menu-title="Eenmaal binnen - Restauratie" -->
+## Eenmaal binnen - Restaurant
+
+- Zijn de tafels onderrijdbaar?
+- Hebben de stoelen rug- en armleuning?
+- Zijn de tafels verlicht
+- Is de route naar de tafel drempelvri
+
+--
+
+<!-- .slide: data-menu-title="Eenmaal binnen  - Hotel" -->
+## Eenmaal binnen  - Hotel
+
+- Is de route naar de kamers drempelvrij
+- Bevat de route versmallingen
+- Is de kamerdeur met weinig of veel kracht te openen?
+- Is de lichtschakelaar bereikbaar?
+- Is er voldoende opstelruimte naast het bed?
+- Is er een hoog laag bed?
+- Is de badkamerdeur met weinig kracht te openen?
+- Is de spiegel zichtbaar vanuit rolstoel?
+- is de badkamervloer voorzien van anti-slip?
+- Is er een douchezitje aanwezig?
+  - met armsteunen?
+- Is de douchekraan binnen handbereik?
+
+--
+
+<!-- .slide: data-menu-title="Eenmaal binnen  - Bar" -->
+## Eenmaal binnen  - Nar
+
+- Route naar bar drempelvrij?
+- Route naar bar breed genoeg voor rolstoel/rollator?
+- Bevat route versmallingen?
+
+--
+
+<!-- .slide: data-menu-title="Eenmaal binnen  - Terras" -->
+## Eenmaal binnen  - Terras
+
+-  Is de doorgang breedte naar terras voldoende voor rolstoel/rollator/scootmobiel?
+-  Zijn er een onderrijdbare tafels?
+-  Zijn er stoelen met rugleuning en armleuning?
+-  Zijn er voldoende parasols aanwezig?
+
+--
+
+<!-- .slide: data-menu-title="Eenmaal binnen  - Cultuur" -->
+## EWenmaal binnen  - Cultuur
+
+- Beschikt de zaal over een goede akoestiek?
+- Zijn er aangepaste zit-rolstoelplaatsen?
 - Moeten rolstoelers vooraf reserveren?
-- Voorzieningen tijdens de pauze?
-- Rolstoeltoegankelijke garderobe?
+- Zijn de voorzieningen in de pauze goed bereikbaar?
+- Is er een rolstoeltoegankelijke garderobe?
+- Zijn hulp- of geleidehonden toegelaten
 
 --
 
-<!-- .slide: data-menu-title="Binnen  - Overnachten" -->
-## Binnen  - Overnachten
+<!-- .slide: data-menu-title="Binnen - Uitgankelijkheid" -->
+## Binnen - Uitgankelijkheid
 
-- Overnachtingsmogelijkheid?
-- Aangepaste kamer(s)?
-  - Aantal kamers?
-- Hoog/laag bed?
-- Hoogte bed (cm)?
-- Alarm-koord of bel?
-- Aangepaste bediening verlichting etc.?
-- Rolstoeltoegankelijk badkamer?
-- Rolstoeltoegankelijke douche?
-
---
-
-<!-- .slide: data-menu-title="Buiten  - Overig" -->
-## Buiten  - Overig
-
-- Voorzieningen zwembad?
-  - Tillift zwembad?
+- Is de vluchtroute drempelvrij?
+- Is de vluchtroute verhard en begaanbaar?
+- Is de vluchtroute breed genoeg voor een rolstoel?
+- Heeft de vluchtroute een hellingbaan?
+  - Wat is de lengte?
+  - Wat is het hoogteverschil?
+- Is de nooddeur met weinig kracht te openen
 
 ---
 
