@@ -158,8 +158,8 @@ Note:
 <!-- .slide: data-menu-title="Aankomst - Aanlooproute" -->
 ## Aankomst - Aanlooproute
 
-- De route van de parkeerplaats naar de entrée is obstakelvrij
-- De route van de parkeerplaats naar de entrée is verhard
+- De route van de parkeerplaats naar de entree is obstakelvrij
+- De route van de parkeerplaats naar de entree is verhard
 - Is de stoeprand verlaagd?
 - Is er sprake van een hellingbaan?
 
@@ -253,7 +253,7 @@ Note:
 
 - Is de route naar de kamers drempelvrij
 - Bevat de route versmallingen
-- Is de kamerdeur met weinig of veel kracht te openen?
+- Is de kamerdeur met weinig kracht te openen?
 - Is de lichtschakelaar bereikbaar?
 - Is er voldoende opstelruimte naast het bed?
 - Is er een hoog laag bed?
@@ -267,7 +267,7 @@ Note:
 --
 
 <!-- .slide: data-menu-title="Eenmaal binnen  - Bar" -->
-## Eenmaal binnen  - Nar
+## Eenmaal binnen  - Bar
 
 - Route naar bar drempelvrij?
 - Route naar bar breed genoeg voor rolstoel/rollator?
@@ -286,7 +286,7 @@ Note:
 --
 
 <!-- .slide: data-menu-title="Eenmaal binnen  - Cultuur" -->
-## EWenmaal binnen  - Cultuur
+## Eenmaal binnen  - Cultuur
 
 - Beschikt de zaal over een goede akoestiek?
 - Zijn er aangepaste zit-rolstoelplaatsen?
@@ -294,6 +294,7 @@ Note:
 - Zijn de voorzieningen in de pauze goed bereikbaar?
 - Is er een rolstoeltoegankelijke garderobe?
 - Zijn hulp- of geleidehonden toegelaten
+- Is er een ringleiding aanwezig?
 
 --
 
