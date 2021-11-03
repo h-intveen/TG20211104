@@ -140,7 +140,7 @@ Note:
 <!-- .slide: data-menu-title="Aankomst - OV" -->
 ## Aankomst - OV
 
-- De OV halte bevindt zich op …. meter afstand van de entree?
+- De OV halte bevindt zich op .... meter afstand van de entree?
 - De route van en naar de halte is obstakelvrij?
 - De route heeft contrastmarkering/geleidelijn?
 
@@ -150,7 +150,7 @@ Note:
 ## Aankomst - Parkeren
 
 - Zijn er bezoekersparkeerpaatsen op eigen terrein?
-- ZIjn er gehandicaptenparkeerplaatsen op eigen terrein?
+- Zijn er gehandicaptenparkeerplaatsen op eigen terrein?
 - Wat is de breedte van de gehandicaptenparkeerplaats?
 
 --
@@ -168,13 +168,13 @@ Note:
 <!-- .slide: data-menu-title="Entree - Algemeen" -->
 ## Entree - Algemeen
 
--  Is de hoofdingang toegankelijk?
--  Is de entreedeur drempelvrij?
--  Is de deurbel bereikbaar?
--  Gaat de entreedeur handmatig of automatisch open?
--  Is er een opstelruimte voor een scootmobiel of rollator
--  Is er sprake van een tussendeur (met deurdranger)?
--  Zijn er oplaadpunten voor een scootmobiel of elektrische fiets?
+- Is de hoofdingang toegankelijk?
+- Is de entreedeur drempelvrij?
+- Is de deurbel bereikbaar?
+- Gaat de entreedeur handmatig of automatisch open?
+- Is er een opstelruimte voor een scootmobiel of rollator
+- Is er sprake van een tussendeur (met deurdranger)?
+- Zijn er oplaadpunten voor een scootmobiel of elektrische fiets?
 
 --
 
@@ -311,7 +311,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" -->
+<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" color=white -->
 ### Bedankt!
 
 **voor uw deelname!**
