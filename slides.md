@@ -312,6 +312,6 @@ Note:
 ---
 
 <!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" style="color:white" -->
-### Bedankt!
+### Bedankt
 
 **Bedankt voor uw deelname!**
