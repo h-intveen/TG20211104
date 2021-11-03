@@ -311,7 +311,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" style="color:white" -->
-### Bedankt
+<!-- .slide: data-background-image="images/VNG-OmWieGaatHet-C.png" data-background-opacity="1.0" style="color:white" -->
+### Om wie gaat het
 
 **Bedankt voor uw deelname!**
