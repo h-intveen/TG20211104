@@ -311,7 +311,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" color=white -->
+<!-- .slide: data-background-image="images/Thats_all_Folks.jpg" data-background-opacity="1.0" text-color="white" -->
 ### Bedankt!
 
 **voor uw deelname!**
