@@ -218,7 +218,7 @@ Note:
 
 - Heeft de trap contrasterende markering op de traptreden?
 - Is er een leuning (aan beide zijden)?
-- Is de leuning doorlopend
+- Is de leuning doorlopend?
 - Is er een traplift aanwezig?
 
 --
@@ -231,7 +231,7 @@ Note:
 - Is de draaicirkel in het toilet groot genoeg?
 - Is er duidelijke bewegwijzering naar het toilet?
 - Heeft het toilet armsteunen en/of beugels?
-- Is de wastafel onderrijdbaar
+- Is de wastafel onderrijdbaar?
 - Is de kraan bedienbaar vanuit de rolstoel?
 - Hangt de spiegel op de goede hoogte?
 - Is er een alarmkoord aanwezig?
@@ -243,16 +243,16 @@ Note:
 
 - Zijn de tafels onderrijdbaar?
 - Hebben de stoelen rug- en armleuning?
-- Zijn de tafels verlicht
-- Is de route naar de tafel drempelvri
+- Zijn de tafels verlicht?
+- Is de route naar de tafel drempelvrij?
 
 --
 
 <!-- .slide: data-menu-title="Eenmaal binnen  - Hotel" -->
 ## Eenmaal binnen  - Hotel
 
-- Is de route naar de kamers drempelvrij
-- Bevat de route versmallingen
+- Is de route naar de kamers drempelvrij?
+- Bevat de route versmallingen?
 - Is de kamerdeur met weinig kracht te openen?
 - Is de lichtschakelaar bereikbaar?
 - Is er voldoende opstelruimte naast het bed?
@@ -293,13 +293,13 @@ Note:
 - Moeten rolstoelers vooraf reserveren?
 - Zijn de voorzieningen in de pauze goed bereikbaar?
 - Is er een rolstoeltoegankelijke garderobe?
-- Zijn hulp- of geleidehonden toegelaten
+- Zijn hulp- of geleidehonden toegelaten?
 - Is er een ringleiding aanwezig?
 
 --
 
-<!-- .slide: data-menu-title="Binnen - Uitgankelijkheid" -->
-## Binnen - Uitgankelijkheid
+<!-- .slide: data-menu-title="Uitgankelijkheid" -->
+## Uitgankelijkheid
 
 - Is de vluchtroute drempelvrij?
 - Is de vluchtroute verhard en begaanbaar?
@@ -307,7 +307,7 @@ Note:
 - Heeft de vluchtroute een hellingbaan?
   - Wat is de lengte?
   - Wat is het hoogteverschil?
-- Is de nooddeur met weinig kracht te openen
+- Is de nooddeur met weinig kracht te openen?
 
 ---
 
