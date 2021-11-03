@@ -311,7 +311,11 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="images/VNG-OmWieGaatHet-C.png" data-background-opacity="1.0" style="color:white" -->
-### Om wie gaat het
+<!-- .slide: data-background-image="images/VNG-OmWieGaatHet-C.png" data-background-opacity="1.0" data-background-size="contain" style="color:white" -->
+## Om wie gaat het
+
+---
+
+## Bedankt
 
 **Bedankt voor uw deelname!**
