@@ -204,7 +204,7 @@ Note:
 <!-- .slide: data-menu-title="Binnen - Lift" -->
 ## Binnen - Lift
 
-- LIs er een personenlift aanwezig?
+- Is er een personenlift aanwezig?
 - Is de liftdeur elektrisch bedienbaar?
 - Is de liftdeur op afstand te openen? (knop langs de wand)
 - Is de lift te bedienen vanuit de rolstoel?
